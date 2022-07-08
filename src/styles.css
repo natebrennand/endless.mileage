@@ -5,6 +5,16 @@
 }
 
 
+img.navbar-logo {
+  height: 80px;
+  width: 80px;
+}
+
+img.hero-banner {
+  width: 100%;
+}
+
+
 .navbar {
   overflow: hidden;
   background-color: #ffff;

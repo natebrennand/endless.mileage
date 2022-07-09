@@ -1,37 +1,35 @@
+/* global settings */
 @font-face {
   font-family: proximanova;
   src: local(Proxima Nova), url('/assets/fonts/proxima.nova.otf') format("opentype");
   font-weight: bold;
 }
 
-/* global settings */
-/*
 * {
   font-family: proximanova;
 }
-*/
 
 a.pure-menu-link {
   color: #017179;
 }
 
 .custom-wrapper {
-    margin-bottom: 1em;
-    -webkit-font-smoothing: antialiased;
-    height: 2.1em;
-    overflow: hidden;
-    -webkit-transition: height 0.5s;
-    -moz-transition: height 0.5s;
-    -ms-transition: height 0.5s;
-    transition: height 0.5s;
+  /* TODO - teal lower border */
+  background-color: #FFFFFF;
+  top: 0;
+  position: sticky;
+  margin-bottom: 1em;
+  -webkit-font-smoothing: antialiased;
+  height: 2.1em;
+  overflow: hidden;
+  -webkit-transition: height 0.5s;
+  -moz-transition: height 0.5s;
+  -ms-transition: height 0.5s;
+  transition: height 0.5s;
 }
 
 .custom-wrapper.open {
     height: 14em;
-}
-
-.custom-menu-3 {
-    text-align: right;
 }
 
 .custom-toggle {
@@ -80,10 +78,6 @@ a.pure-menu-link {
 }
 
 @media (max-width: 47.999em) {
-    .custom-menu-3 {
-        text-align: left;
-    }
-
     .custom-toggle {
         display: block;
     }
@@ -92,4 +86,52 @@ a.pure-menu-link {
 
 img.hero-banner {
   width: 100%;
+}
+
+.content {
+    /* TODO - figure out sizing on mobile */
+    font-size: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    margin-bottom: 50px;
+    line-height: 1.6em;
+}
+
+
+@media (min-width: 48em) {
+    .content {
+        padding-left: 0em;
+        padding-right: 0em;
+    }
+
+    #layout {
+        left: 0;
+    }
+}
+
+/* FOOTER */
+
+.footer {
+  text-align: center;
+  padding: 1em;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+
+.fa {
+  padding: 10px;
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+
+  color: white;
+  background: #017179;
+}
+
+
+.about-bio .title {
+  color: grey;
 }

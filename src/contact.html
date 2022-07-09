@@ -1,74 +1,76 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Endless Mileage Project</title>
-    <meta name="description" content="Endless Mileage">
-    <meta name="author"      content="Endless Mileage">
+<head>
+  <meta charset="utf-8">
+  <title>Endless Mileage Project</title>
+  <meta name="description" content="Endless Mileage">
+  <meta name="author"      content="Endless Mileage">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/pure-min.css	">
-    <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/grids-responsive-min.css">
-    <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/forms-min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/pure-min.css">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/grids-responsive-min.css">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.1.0/build/forms-min.css">
 
-    <link rel="stylesheet" href="styles.with.pure.css">
-  </head>
-  <body>
-    <div class="pure-g custom-wrapper" id="menu">
-      <div class="pure-u-1 pure-u-md-1-5">
-        <div class="pure-menu">
-          <a href="#" class="pure-menu-heading custom-brand">Endless Mileage</a>
-          <a href="#" class="custom-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
-        </div>
+  <link rel="stylesheet" href="styles.with.pure.css">
+</head>
+<body>
+  <div class="pure-g custom-wrapper" id="menu">
+    <div class="pure-u-1 pure-u-md-1-5">
+      <div class="pure-menu">
+        <a href="#" class="pure-menu-heading custom-brand">Endless Mileage</a>
+        <a href="#" class="custom-toggle" id="toggle"><s class="bar"></s><s class="bar"></s></a>
       </div>
-      <div class="pure-u-1 pure-u-md-4-5">
-        <div class="pure-menu pure-menu-horizontal custom-can-transform">
-          <ul class="pure-menu-list">
-            <li class="pure-menu-item"><a class="pure-menu-link" href="/index.html">Home</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" href="/about.html">About</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" href="/fastforest.html">The Fast Forest</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" href="/recoveredrunning.html">Recovered Running</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" href="/contact.html">Contact</a></li>
-          </ul>
-        </div>
-      </div>
-      <script type="text/javascript" src="navbar.js"></script>
     </div>
+    <div class="pure-u-1 pure-u-md-4-5">
+      <div class="pure-menu pure-menu-horizontal custom-can-transform">
+        <ul class="pure-menu-list">
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/index.html">Home</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/about.html">About</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/fastforest.html">The Fast Forest</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/recoveredrunning.html">Recovered Running</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <script type="text/javascript" src="navbar.js"></script>
+  </div>
 
   <div class="pure-g">
     <div class="pure-u-1">
       <img class="hero-banner"
         src="/assets/images/endless.mileage.header.png"
         alt="Endless Mileage Project">
+    </div>
 
-        <br>
-<div class="container">
-  <form action="action_page.php">
-
-  	<div>
-    	<label for="fname">First Name</label>
-	    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-	</div>
-	<div>
-	    <label for="lname">Last Name</label>
-	    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-	</div>
-
-	<div>
-	    <label for="message">Message</label>
-	    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-	</div>
-
-    <input type="submit" value="Submit">
-
-  </form>
-</div>
-<br>
-<br>
-<center><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-<a href="#" class="fa fa-instagram"></a>
-<a href="#" class="fa fa-linkedin"></a>
-</center>
+    <div class="pure-u-1 content">
+      <form
+        class="pure-form pure-form-aligned"
+        action="mailto:benjamin.blankenship@endlessmileage.org"
+        method="GET"
+        enctype="multipart/form-data">
+        <fieldset>
+          <div class="pure-control-group">
+            <label for="aligned-subjec">Subject</label>
+            <input type="text" name="Subject" id="aligned-subject" placeholder="Subject" />
+          </div>
+          <div class="pure-control-group">
+            <label for="aligned-body">Body</label>
+            <textarea id="aligned-body" name="Body" placeholder="Body" rows="6" cols="20"></textarea>
+          </div>
+        </fieldset>
+        <button type="submit" class="pure-button pure-button-primary">Submit</button>
+      </form>
+      <div id="layout">
+        <div class="pure-u-1 footer is-center" id="layout">
+          <a href="TODO" class="fa fa-facebook"></a>
+          <a href="TODO" class="fa fa-twitter"></a>
+          <a href="TODO" class="fa fa-instagram"></a>
+          <a href="TODO" class="fa fa-linkedin"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

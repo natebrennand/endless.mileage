@@ -139,17 +139,28 @@ img.hero-banner {
   background: #017179;
 }
 
+.team-img {
+  display: flex;
+  justify-content: center
+}
 
 .about-bio .title {
   color: grey;
 }
 
-h2, p {
+.about-bio .title {
+  text-align: center;
+}
+
+
+p {
   letter-spacing: normal;
   padding: 1em;
 }
 
-h1 {
+
+h1,
+h2 {
   letter-spacing: normal;
   padding: 1em;
   text-align: center;

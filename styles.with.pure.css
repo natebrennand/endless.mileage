@@ -97,6 +97,10 @@ img.hero-banner {
     padding: 1em;
 }
 
+.map-container {
+    max-width: 800px;
+}
+
 
 #layout {
     left: 0;

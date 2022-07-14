@@ -64,11 +64,13 @@ allMilers.sort(function(a, b) {
 
 
 allMilers.forEach((x, idx) => {
-  x.index = idx
+  x.index = idx;
+  x.readable_date = x.date.toLocaleDateString();
+  x.result = x.result.slice(1); // remove leading 0
 })
 
 // write JSON string to a file
-fs.writeFile('./src/all.milers.json', JSON.stringify(allMilers, null, 2), (err) => {
+fs.writeFile('./all.milers.json', JSON.stringify(allMilers, null, 2), (err) => {
     if (err) {
         throw err;
     }

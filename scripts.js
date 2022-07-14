@@ -109,7 +109,7 @@ function build_trees_array(layers, map_settings, first_athlete_index, last_athle
         trees = trees.concat({
            'type': 'Feature',
            'properties': {
-             'description': `athlete ${counter+1}: ${athletes[counter].name}`,
+             'description': `${athletes[counter].name}<br>Ran ${athletes[counter].result} in ${athletes[counter].location}<br>on ${athletes[counter].readable_date}`,
              'icon': 'park',
              'id':   counter
            },

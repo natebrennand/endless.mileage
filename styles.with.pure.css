@@ -140,12 +140,13 @@ img.hero-banner {
   color: grey;
 }
 
-p {
+h2, p {
   letter-spacing: normal;
   padding: 1em;
 }
 
-h2 {
+h1 {
   letter-spacing: normal;
   padding: 1em;
+  text-align: center;
 }

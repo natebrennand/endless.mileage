@@ -214,13 +214,21 @@ const ng_trees = build_trees_array(ng_layers, ng_map_settings, ng_first_athlete_
 //   zoom: 16.5
 // }, ng_trees);
 
+// set the zoom based on window size.
+let zoomLevel = 15.5;
+if (window.innerWidth > 800) {
+  zoomLevel = 17;
+} else if (window.innerWidth > 600) {
+  zoomLevel = 16;
+}
+
 // both groves
 const doris_ranch_map = setup_map({
   container: 'doris_ranch_map',
   // style: 'mapbox://styles/natebrennand/cl53adi83001d15o20w8ac36t', // illustrated
   style: 'mapbox://styles/natebrennand/cl54gib86000x15o1sfvcdt6h', // sattelite
-  center: [-123.0202, 44.0288],
-  zoom: 17
+  center: [-123.0204, 44.0297],
+  zoom: zoomLevel,
 }, hg_trees.concat(ng_trees));
 
 

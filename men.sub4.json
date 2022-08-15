@@ -48,7 +48,7 @@
     "date": "8/18/1962"
   },
   {
-    "name": "Tom O’Hara",
+    "name": "Tom O'Hara",
     "result": "03:59.2",
     "location": "New York",
     "date": "2/15/1963"
@@ -662,7 +662,7 @@
   {
     "name": "Dan Aldridge",
     "result": "03:59.9",
-    "location": "San José",
+    "location": "San Jose",
     "date": "4/11/1981"
   },
   {
@@ -836,7 +836,7 @@
   {
     "name": "Gary Lewis",
     "result": "03:58.6",
-    "location": "San José",
+    "location": "San Jose",
     "date": "5/25/1985"
   },
   {
@@ -944,7 +944,7 @@
   {
     "name": "Darryl Frerker",
     "result": "03:58.1",
-    "location": "Notr eDame",
+    "location": "Notre Dame",
     "date": "2/6/1988"
   },
   {
@@ -1088,13 +1088,13 @@
   {
     "name": "Terrance Herrington",
     "result": "03:55.6",
-    "location": "Villeneuve-d’Ascq",
+    "location": "Villeneuve-d'Ascq",
     "date": "7/1/1991"
   },
   {
     "name": "Christian Cushing-Murray",
     "result": "03:57.7",
-    "location": "Villeneuve-d’Ascq",
+    "location": "Villeneuve-d'Ascq",
     "date": "7/1/1991"
   },
   {
@@ -1632,7 +1632,7 @@
     "date": "6/4/2005"
   },
   {
-    "name": "Sean O’Brien",
+    "name": "Sean O'Brien",
     "result": "03:59.1",
     "location": "Seattle",
     "date": "1/14/2006"
@@ -2256,7 +2256,7 @@
     "date": "3/3/2012"
   },
   {
-    "name": "De’Sean Turner",
+    "name": "De'Sean Turner",
     "result": "03:59.8",
     "location": "Notre Dame",
     "date": "3/3/2012"

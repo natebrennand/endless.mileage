@@ -33,6 +33,12 @@ function calculateGapInHundredths(result, barrier) {
 maleMilers.forEach(x => {
   x.date = new Date(x.date)
   x.gender = "male"
+
+  // We trust the accuracy of our underlying data to be sub 4, but it has been
+  // rounded to the tenths. "Fix" the results set to 4 flat.
+  if (x.result == "04:00.0") {
+    x.result = "03:59.9"
+  }
   x.hundredths_under_barrier = calculateGapInHundredths(x.result, "04:00.0")
 })
 
@@ -48,17 +54,37 @@ let ties = 0;
 
 // Sort by:
 // 1. date
-// 2. gap under the barrier
-// 3. alphabetical on last name
+// 2. gender
+// 3. gap under the barrier
+// 4. alphabetical on last name
+//
+// JS sorting rules:
+// return 1  => b then a
+// return -1 => a then b
+// return 0  => original order
 allMilers.sort(function(a, b) {
+  // 1. date
   if (a.date.getTime() !== b.date.getTime()) {
     return a.date - b.date;
-  } else if (a.hundredths_under_barrier !== b.hundredths_under_barrier) {
-    return a.hundredths_under_barrier - b.hundredths_under_barrier;
   }
+
+  // 2. gender
+  if (a.gender !== b.gender) {
+    if (a.gender === "female") {
+      return -1;
+    } else {
+      return 1;
+    }
+  }
+
+  // 3. gap under the barrier
+  if (a.hundredths_under_barrier !== b.hundredths_under_barrier) {
+    return b.hundredths_under_barrier - a.hundredths_under_barrier;
+  }
+
+  // 4. alphabetical on last name
   const aLastName = a.name.split(' ').at(-1),
         bLastName = b.name.split(' ').at(-1);
-
   return aLastName.localeCompare(bLastName);
 })
 

@@ -17,7 +17,6 @@ a.pure-menu-link {
   background-color: #FFFFFF;
   top: 0;
   position: sticky;
-  margin-bottom: 1em;
   -webkit-font-smoothing: antialiased;
   height: 2.1em;
   overflow: hidden;
@@ -28,7 +27,7 @@ a.pure-menu-link {
 }
 
 .custom-wrapper.open {
-    height: 14em;
+    height: 100%;
 }
 
 .custom-toggle {

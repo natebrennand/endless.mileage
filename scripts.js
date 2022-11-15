@@ -122,7 +122,7 @@ function build_trees_array(layers, map_settings, first_athlete_index, last_athle
            'properties': {
              'description': (
                `<div class="tree-popup">` +
-                 `${counter+1}: ${athletes[counter].name}<br>Ran ${athletes[counter].result} in ${athletes[counter].location}<br>on ${athletes[counter].readable_date}` +
+                 `#${athletes[counter].category_index}: ${athletes[counter].name}<br>Ran ${athletes[counter].result} in ${athletes[counter].location}on ${athletes[counter].readable_date}<br>` +
                  `<img class="tree-pic" src="${filenameFromAthlete(athletes[counter])}">` +
                `</div>`
              ),

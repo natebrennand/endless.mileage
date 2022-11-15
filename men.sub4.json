@@ -1,3594 +1,4193 @@
 [
   {
     "date": "6/1/1957",
+    "index": "1",
     "location": "Stockton",
     "name": "Don Bowden",
     "result": "03:58.7"
   },
   {
     "date": "4/23/1960",
+    "index": "2",
     "location": "Eugene",
     "name": "Dyrol Burleson",
     "result": "03:58.6"
   },
   {
     "date": "5/28/1960",
+    "index": "3",
     "location": "Modesto",
     "name": "Jim Beatty",
     "result": "03:58.0"
   },
   {
     "date": "4/28/1962",
+    "index": "4",
     "location": "Walnut",
     "name": "Jim Grelle",
     "result": "03:59.9"
   },
   {
     "date": "5/26/1962",
+    "index": "5",
     "location": "Modesto",
     "name": "Keith Forman",
     "result": "03:58.3"
   },
   {
     "date": "5/26/1962",
+    "index": "6",
     "location": "Modesto",
     "name": "Cary Weisiger",
     "result": "03:59.3"
   },
   {
     "date": "6/23/1962",
+    "index": "7",
     "location": "Walnut",
     "name": "Bill Dotson",
     "result": "03:59.0"
   },
   {
     "date": "8/18/1962",
+    "index": "8",
     "location": "London",
     "name": "Bob Seaman",
     "result": "03:58.0"
   },
   {
     "date": "2/15/1963",
+    "index": "9",
     "location": "New York",
-    "name": "Tom O'Hara",
+    "name": "Tom O’Hara",
     "result": "03:59.2"
   },
   {
     "date": "6/5/1964",
+    "index": "10",
     "location": "Compton",
     "name": "Archie San Romani Jr.",
     "result": "03:57.6"
   },
   {
     "date": "6/5/1964",
+    "index": "11",
     "location": "Compton",
     "name": "Morgan Groth",
     "result": "03:57.9"
   },
   {
     "date": "6/5/1964",
+    "index": "12",
     "location": "Compton",
     "name": "Bob Day",
     "result": "03:58.9"
   },
   {
     "date": "6/5/1964",
+    "index": "13",
     "location": "Compton",
     "name": "Jim Ryun",
     "result": "03:59.0"
   },
   {
     "date": "6/13/1964",
+    "index": "14",
     "location": "San Diego",
     "name": "Bob Schul",
     "result": "03:59.1"
   },
   {
     "date": "5/29/1965",
+    "index": "15",
     "location": "Modesto",
     "name": "John Garrison",
     "result": "03:58.1"
   },
   {
     "date": "6/2/1966",
+    "index": "16",
     "location": "Eugene",
     "name": "Roscoe Divine",
     "result": "03:59.1"
   },
   {
     "date": "6/2/1966",
+    "index": "17",
     "location": "Eugene",
     "name": "Wade Bell",
     "result": "03:59.8"
   },
   {
     "date": "6/11/1966",
+    "index": "18",
     "location": "San Diego",
     "name": "Tim Danielson",
     "result": "03:59.4"
   },
   {
     "date": "8/10/1966",
+    "index": "19",
     "location": "Woodland Hills",
     "name": "Richard Romo",
     "result": "03:58.8"
   },
   {
     "date": "8/10/1966",
+    "index": "20",
     "location": "Woodland Hills",
     "name": "Ted Nelson",
     "result": "03:59.4"
   },
   {
     "date": "2/17/1967",
+    "index": "21",
     "location": "New York",
     "name": "Dave Patrick",
     "result": "03:59.3"
   },
   {
     "date": "6/23/1967",
+    "index": "22",
     "location": "Bakersfield",
     "name": "Dave Wilborn",
     "result": "03:56.2"
   },
   {
     "date": "6/23/1967",
+    "index": "23",
     "location": "Bakersfield",
     "name": "Tom Von Ruden",
     "result": "03:56.9"
   },
   {
     "date": "6/23/1967",
+    "index": "24",
     "location": "Bakersfield",
     "name": "Sam Bair",
     "result": "03:58.7"
   },
   {
     "date": "6/23/1967",
+    "index": "25",
     "location": "Bakersfield",
     "name": "Marty Liquori",
     "result": "03:59.8"
   },
   {
     "date": "6/1/1968",
+    "index": "26",
     "location": "Philadelphia",
     "name": "Brian Kivlan",
     "result": "03:57.4"
   },
   {
     "date": "6/1/1968",
+    "index": "27",
     "location": "Philadelphia",
     "name": "Jerry Richey",
     "result": "03:58.6"
   },
   {
     "date": "6/1/1968",
+    "index": "28",
     "location": "Philadelphia",
     "name": "Jack Fath",
     "result": "03:59.5"
   },
   {
     "date": "8/10/1968",
+    "index": "29",
     "location": "Walnut",
     "name": "Pat Traynor",
     "result": "03:59.0"
   },
   {
     "date": "5/31/1969",
+    "index": "30",
     "location": "Berkeley",
     "name": "Chuck LaBenz",
     "result": "03:58.4"
   },
   {
     "date": "5/31/1969",
+    "index": "31",
     "location": "Berkeley",
     "name": "John Lawson",
     "result": "03:59.5"
   },
   {
     "date": "5/16/1970",
+    "index": "32",
     "location": "Westwood",
     "name": "Rick Riley",
     "result": "03:59.2"
   },
   {
     "date": "5/16/1970",
+    "index": "33",
     "location": "Westwood",
     "name": "Duncan Macdonald",
     "result": "03:59.6"
   },
   {
     "date": "5/23/1970",
+    "index": "34",
     "location": "Modesto",
     "name": "Jim Crawford",
     "result": "03:59.6"
   },
   {
     "date": "5/30/1970",
+    "index": "35",
     "location": "Philadelphia",
     "name": "Howell Michael",
     "result": "03:59.0"
   },
   {
     "date": "5/30/1970",
+    "index": "36",
     "location": "Berkeley",
     "name": "John Mason",
     "result": "03:58.4"
   },
   {
     "date": "6/5/1970",
+    "index": "37",
     "location": "Eugene",
     "name": "Steve Prefontaine",
     "result": "03:57.4"
   },
   {
     "date": "6/5/1970",
+    "index": "38",
     "location": "Eugene",
     "name": "Steve Savage",
     "result": "03:59.2"
   },
   {
     "date": "6/6/1970",
+    "index": "39",
     "location": "Bloomington",
     "name": "Dave Wottle",
     "result": "03:59.0"
   },
   {
     "date": "2/13/1971",
+    "index": "40",
     "location": "Houston",
     "name": "Len Hilton",
     "result": "03:59.1"
   },
   {
     "date": "2/13/1971",
+    "index": "41",
     "location": "Houston",
     "name": "Greg Carlberg",
     "result": "03:59.6"
   },
   {
     "date": "4/16/1971",
+    "index": "42",
     "location": "Lawrence",
     "name": "Larry Rose",
     "result": "03:59.5"
   },
   {
     "date": "5/11/1971",
+    "index": "43",
     "location": "Carbondale",
     "name": "Lee LaBadie",
     "result": "03:58.8"
   },
   {
     "date": "5/29/1971",
+    "index": "44",
     "location": "Modesto",
     "name": "Jerome Howe",
     "result": "03:59.4"
   },
   {
     "date": "6/19/1971",
+    "index": "45",
     "location": "Seattle",
     "name": "Bob Wheeler",
     "result": "03:59.9"
   },
   {
     "date": "6/26/1971",
+    "index": "46",
     "location": "Eugene",
     "name": "John Baker",
     "result": "03:59.8"
   },
   {
     "date": "3/4/1972",
+    "index": "47",
     "location": "Los Angeles",
     "name": "Mark Winzenried",
     "result": "03:59.5"
   },
   {
     "date": "3/4/1972",
+    "index": "48",
     "location": "Los Angeles",
     "name": "George Young",
     "result": "03:59.6"
   },
   {
     "date": "5/27/1972",
+    "index": "49",
     "location": "Modesto",
     "name": "Juris Luzins",
     "result": "03:58.2"
   },
   {
     "date": "6/9/1972",
+    "index": "50",
     "location": "Los Angeles",
     "name": "Ken Popejoy",
     "result": "03:59.7"
   },
   {
     "date": "4/21/1973",
+    "index": "51",
     "location": "Raleigh",
     "name": "Tony Waldrop",
     "result": "03:58.4"
   },
   {
     "date": "4/21/1973",
+    "index": "52",
     "location": "Raleigh",
     "name": "Reggie McAfee",
     "result": "03:59.3"
   },
   {
     "date": "5/13/1973",
+    "index": "53",
     "location": "Gainesville",
     "name": "Barry Brown",
     "result": "03:58.8"
   },
   {
     "date": "5/19/1973",
+    "index": "54",
     "location": "Eugene",
     "name": "Mark Feig",
     "result": "03:59.5"
   },
   {
     "date": "5/25/1973",
+    "index": "55",
     "location": "Arkadelphia",
     "name": "Tommy Fulton",
     "result": "03:57.8"
   },
   {
     "date": "5/26/1973",
+    "index": "56",
     "location": "East Lansing",
     "name": "Charlie McMullen",
     "result": "03:59.7"
   },
   {
     "date": "6/2/1973",
+    "index": "57",
     "location": "Wichita",
     "name": "Rick Wohlhuter",
     "result": "03:58.8"
   },
   {
     "date": "6/4/1973",
+    "index": "58",
     "location": "Gainesville",
     "name": "Dick Buerkle",
     "result": "03:58.0"
   },
   {
     "date": "6/9/1973",
+    "index": "59",
     "location": "Baton Rouge",
     "name": "Mark Schilling",
     "result": "03:58.6"
   },
   {
     "date": "6/20/1973",
+    "index": "60",
     "location": "Eugene",
     "name": "Paul Geis",
     "result": "03:58.0"
   },
   {
     "date": "6/20/1973",
+    "index": "61",
     "location": "Eugene",
     "name": "Jim Johnson",
     "result": "03:58.8"
   },
   {
     "date": "6/20/1973",
+    "index": "62",
     "location": "Eugene",
     "name": "Scott Daggatt",
     "result": "03:59.6"
   },
   {
     "date": "1/26/1974",
+    "index": "63",
     "location": "Fargo",
     "name": "Mike Slack",
     "result": "03:59.7"
   },
   {
     "date": "2/9/1974",
+    "index": "64",
     "location": "Houston",
     "name": "Reed Fischer",
     "result": "03:59.9"
   },
   {
     "date": "2/16/1974",
+    "index": "65",
     "location": "San Diego",
     "name": "Greg Gibson",
     "result": "03:59.1"
   },
   {
     "date": "3/16/1974",
+    "index": "66",
     "location": "Tempe",
     "name": "Paul Cummings",
     "result": "03:56.4"
   },
   {
     "date": "4/20/1974",
+    "index": "67",
     "location": "Raleigh",
     "name": "Steve Wheeler",
     "result": "03:59.4"
   },
   {
     "date": "4/27/1974",
+    "index": "68",
     "location": "Philadelphia",
     "name": "Denis Fikes",
     "result": "03:55.0"
   },
   {
     "date": "4/27/1974",
+    "index": "69",
     "location": "Philadelphia",
     "name": "Karl Thornton",
     "result": "03:57.9"
   },
   {
     "date": "6/1/1974",
+    "index": "70",
     "location": "Wichita",
     "name": "Bruce Fischer",
     "result": "03:58.5"
   },
   {
     "date": "6/1/1974",
+    "index": "71",
     "location": "Wichita",
     "name": "Ted Castaneda",
     "result": "03:58.5"
   },
   {
     "date": "6/1/1974",
+    "index": "72",
     "location": "Wichita",
     "name": "Keith Palmer",
     "result": "03:59.2"
   },
   {
     "date": "6/1/1974",
+    "index": "73",
     "location": "Wichita",
     "name": "Jeff Schemmel",
     "result": "03:59.4"
   },
   {
     "date": "3/22/1975",
+    "index": "74",
     "location": "Los Angeles",
     "name": "Keith Munson",
     "result": "03:58.5"
   },
   {
     "date": "5/3/1975",
+    "index": "75",
     "location": "Durham",
     "name": "Ken Swenson",
     "result": "03:59.1"
   },
   {
     "date": "5/6/1975",
+    "index": "76",
     "location": "Gainesville",
     "name": "Steve Foster",
     "result": "03:58.5"
   },
   {
     "date": "5/10/1975",
+    "index": "77",
     "location": "Bowling Green",
     "name": "Steve Heidenreich",
     "result": "03:59.6"
   },
   {
     "date": "5/24/1975",
+    "index": "78",
     "location": "Modesto",
     "name": "Matt Centrowitz",
     "result": "03:59.2"
   },
   {
     "date": "5/29/1975",
+    "index": "79",
     "location": "Eugene",
     "name": "Gary Barger",
     "result": "03:58.8"
   },
   {
     "date": "5/31/1975",
+    "index": "80",
     "location": "Wichita",
     "name": "Mike Durkin",
     "result": "03:56.7"
   },
   {
     "date": "2/28/1976",
+    "index": "81",
     "location": "Baton Rouge",
     "name": "Steve Bolt",
     "result": "03:59.4"
   },
   {
     "date": "5/29/1976",
+    "index": "82",
     "location": "Wichita",
     "name": "Rick Musgrave",
     "result": "03:59.3"
   },
   {
     "date": "1/15/1977",
+    "index": "83",
     "location": "Los Angeles",
     "name": "Steve Scott",
     "result": "03:59.7"
   },
   {
     "date": "4/30/1977",
+    "index": "84",
     "location": "Philadelphia",
     "name": "Ron Speirs",
     "result": "03:56.9"
   },
   {
     "date": "5/27/1977",
+    "index": "85",
     "location": "Wichita",
     "name": "Steve Lacy",
     "result": "03:59.6"
   },
   {
     "date": "6/14/1977",
+    "index": "86",
     "location": "Eugene",
     "name": "Ed Arriola",
     "result": "03:59.3"
   },
   {
     "date": "1/28/1978",
+    "index": "87",
     "location": "Ann Arbor",
     "name": "Greg Meyer",
     "result": "03:59.1"
   },
   {
     "date": "4/29/1978",
+    "index": "88",
     "location": "Philadelphia",
     "name": "Tom Duits",
     "result": "03:59.2"
   },
   {
     "date": "5/7/1978",
+    "index": "89",
     "location": "Westwood",
     "name": "Don Paige",
     "result": "03:58.1"
   },
   {
     "date": "6/17/1978",
+    "index": "90",
     "location": "Oxford",
     "name": "Craig Masback",
     "result": "03:59.6"
   },
   {
     "date": "6/27/1978",
+    "index": "91",
     "location": "Oslo",
     "name": "Jerald Jones",
     "result": "03:57.9"
   },
   {
     "date": "7/3/1978",
+    "index": "92",
     "location": "Stockholm",
     "name": "Jeff Jirele",
     "result": "03:58.3"
   },
   {
     "date": "7/3/1978",
+    "index": "93",
     "location": "Stockholm",
     "name": "Phil Kane",
     "result": "03:59.4"
   },
   {
     "date": "8/5/1978",
+    "index": "94",
     "location": "University Park",
     "name": "Greg Fredericks",
     "result": "03:59.7"
   },
   {
     "date": "8/18/1978",
+    "index": "95",
     "location": "Berlin",
     "name": "Mike Manke",
     "result": "03:58.8"
   },
   {
     "date": "6/9/1979",
+    "index": "96",
     "location": "Berkeley",
     "name": "Mark Belger",
     "result": "03:58.4"
   },
   {
     "date": "6/23/1979",
+    "index": "97",
     "location": "Piscataway",
     "name": "Ross Donoghue",
     "result": "03:58.0"
   },
   {
     "date": "7/4/1979",
+    "index": "98",
     "location": "Tillsonburg",
     "name": "Tom Smith",
     "result": "03:58.3"
   },
   {
     "date": "7/8/1979",
+    "index": "99",
     "location": "Gateshead",
     "name": "Andy Clifford",
     "result": "03:59.5"
   },
   {
     "date": "2/9/1980",
+    "index": "100",
     "location": "Louisville",
     "name": "Jim Spivey",
     "result": "03:58.9"
   },
   {
     "date": "3/22/1980",
+    "index": "101",
     "location": "Stanford",
     "name": "Ray Wicksell",
     "result": "03:59.7"
   },
   {
     "date": "5/11/1980",
+    "index": "102",
     "location": "Westwood",
     "name": "Ron Cornell",
     "result": "03:57.7"
   },
   {
     "date": "5/16/1980",
+    "index": "103",
     "location": "University Park",
     "name": "Larry Mangan",
     "result": "03:58.4"
   },
   {
     "date": "5/18/1980",
+    "index": "104",
     "location": "Philadelphia",
     "name": "Mike Wyatt",
     "result": "03:58.0"
   },
   {
     "date": "7/4/1980",
+    "index": "105",
     "location": "Tillsonburg",
     "name": "Richie Harris",
     "result": "03:58.3"
   },
   {
     "date": "7/7/1980",
+    "index": "106",
     "location": "Stockholm",
     "name": "Todd Harbour",
     "result": "03:58.4"
   },
   {
     "date": "7/26/1980",
+    "index": "107",
     "location": "Eugene",
     "name": "Bill McChesney",
     "result": "03:59.1"
   },
   {
     "date": "2/13/1981",
+    "index": "108",
     "location": "Inglewood",
     "name": "Tom Byers",
     "result": "03:56.0"
   },
   {
     "date": "2/21/1981",
+    "index": "109",
     "location": "Daly City",
     "name": "Doug Padilla",
     "result": "03:56.6"
   },
   {
     "date": "2/28/1981",
+    "index": "110",
     "location": "Champaign",
     "name": "Chuck Aragon",
     "result": "03:59.9"
   },
   {
     "date": "4/11/1981",
-    "location": "San Jose",
+    "index": "111",
+    "location": "San José",
     "name": "Dan Aldridge",
     "result": "03:59.9"
   },
   {
     "date": "5/28/1981",
+    "index": "112",
     "location": "Eugene",
     "name": "Rudy Chapa",
     "result": "03:57.0"
   },
   {
     "date": "5/28/1981",
+    "index": "113",
     "location": "Eugene",
     "name": "Ed Spinney",
     "result": "03:57.3"
   },
   {
     "date": "5/28/1981",
+    "index": "114",
     "location": "Eugene",
     "name": "Ken Martin",
     "result": "03:57.8"
   },
   {
     "date": "5/30/1981",
+    "index": "115",
     "location": "Villanova",
     "name": "John Gregorek",
     "result": "03:57.1"
   },
   {
     "date": "9/9/1981",
+    "index": "116",
     "location": "Rieti",
     "name": "Sydney Maree",
     "result": "03:48.8"
   },
   {
     "date": "1/22/1982",
+    "index": "117",
     "location": "Los Angeles",
     "name": "Frank Assumma",
     "result": "03:57.3"
   },
   {
     "date": "1/23/1982",
+    "index": "118",
     "location": "Ann Arbor",
     "name": "Dan Heikkinen",
     "result": "03:59.1"
   },
   {
     "date": "2/13/1982",
+    "index": "119",
     "location": "Boston",
     "name": "Vince Draddy",
     "result": "03:58.2"
   },
   {
     "date": "2/13/1982",
+    "index": "120",
     "location": "Boston",
     "name": "Roger Jones",
     "result": "03:58.4"
   },
   {
     "date": "2/13/1982",
+    "index": "121",
     "location": "Boston",
     "name": "Thom Hunt",
     "result": "03:59.5"
   },
   {
     "date": "5/8/1982",
+    "index": "122",
     "location": "Corvallis",
     "name": "Mark Fricker",
     "result": "03:58.3"
   },
   {
     "date": "5/15/1982",
+    "index": "123",
     "location": "Eugene",
     "name": "Jim Hill",
     "result": "03:56.4"
   },
   {
     "date": "6/5/1982",
+    "index": "124",
     "location": "Eugene",
     "name": "Joe Fabris",
     "result": "03:58.3"
   },
   {
     "date": "7/17/1982",
+    "index": "125",
     "location": "London",
     "name": "Steve Plasencia",
     "result": "03:58.3"
   },
   {
     "date": "1/15/1983",
+    "index": "126",
     "location": "Johnson City",
     "name": "Chris Fox",
     "result": "03:59.0"
   },
   {
     "date": "1/15/1983",
+    "index": "127",
     "location": "Johnson City",
     "name": "Kevin Johnson",
     "result": "03:59.1"
   },
   {
     "date": "2/11/1983",
+    "index": "128",
     "location": "Daly City",
     "name": "Jay Woods",
     "result": "03:58.2"
   },
   {
     "date": "2/12/1983",
+    "index": "129",
     "location": "Ann Arbor",
     "name": "Brian Diemer",
     "result": "03:59.9"
   },
   {
     "date": "5/14/1983",
+    "index": "130",
     "location": "Eugene",
     "name": "Dub Myers",
     "result": "03:57.1"
   },
   {
     "date": "6/1/1983",
+    "index": "131",
     "location": "Vancouver",
     "name": "Gary Gustafson",
     "result": "03:58.4"
   },
   {
     "date": "6/4/1983",
+    "index": "132",
     "location": "Eugene",
     "name": "Kevin Ryan",
     "result": "03:57.6"
   },
   {
     "date": "7/20/1983",
+    "index": "133",
     "location": "Luxembourg",
     "name": "Adam Dixon",
     "result": "03:59.4"
   },
   {
     "date": "5/12/1984",
+    "index": "134",
     "location": "Eugene",
     "name": "Randy Wilson",
     "result": "03:58.7"
   },
   {
     "date": "5/12/1984",
+    "index": "135",
     "location": "Eugene",
     "name": "Mike Blackmore",
     "result": "03:59.8"
   },
   {
     "date": "7/7/1984",
+    "index": "136",
     "location": "Tillsonburg",
     "name": "Terry Brahm",
     "result": "03:59.4"
   },
   {
     "date": "7/21/1984",
+    "index": "137",
     "location": "Oslo",
     "name": "Brian Theriot",
     "result": "03:56.1"
   },
   {
     "date": "1/19/1985",
+    "index": "138",
     "location": "Johnson City",
     "name": "Jim McKeon",
     "result": "03:58.6"
   },
   {
     "date": "4/27/1985",
+    "index": "139",
     "location": "Philadelphia",
     "name": "Cliff Sheehan",
     "result": "03:59.2"
   },
   {
     "date": "5/25/1985",
-    "location": "San Jose",
+    "index": "140",
+    "location": "San José",
     "name": "Gary Lewis",
     "result": "03:58.6"
   },
   {
     "date": "6/29/1985",
+    "index": "141",
     "location": "Tillsonburg",
     "name": "Richard Block",
     "result": "03:59.8"
   },
   {
     "date": "8/16/1985",
+    "index": "142",
     "location": "Bern",
     "name": "Henry Marsh",
     "result": "03:59.3"
   },
   {
     "date": "1/26/1986",
+    "index": "143",
     "location": "Allston",
     "name": "Mike Stahr",
     "result": "03:58.8"
   },
   {
     "date": "5/10/1986",
+    "index": "144",
     "location": "Modesto",
     "name": "Jeff Atkinson",
     "result": "03:59.9"
   },
   {
     "date": "5/17/1986",
+    "index": "145",
     "location": "Westwood",
     "name": "Earl Jones",
     "result": "03:58.8"
   },
   {
     "date": "5/17/1986",
+    "index": "146",
     "location": "Eugene",
     "name": "Marty Hemsley",
     "result": "03:59.7"
   },
   {
     "date": "6/14/1986",
+    "index": "147",
     "location": "Villanova",
     "name": "Kevin King",
     "result": "03:58.3"
   },
   {
     "date": "6/30/1986",
+    "index": "148",
     "location": "Belfast",
     "name": "Maurice Smith",
     "result": "03:59.7"
   },
   {
     "date": "1/16/1987",
+    "index": "149",
     "location": "Indanapolis",
     "name": "James Murphy",
     "result": "04:00.0"
   },
   {
     "date": "1/31/1987",
+    "index": "150",
     "location": "Fayetteville",
     "name": "Joe Falcon",
     "result": "03:56.8"
   },
   {
     "date": "5/9/1987",
+    "index": "151",
     "location": "Modesto",
     "name": "Gawain Guy",
     "result": "03:58.6"
   },
   {
     "date": "5/16/1987",
+    "index": "152",
     "location": "Eugene",
     "name": "Harold Kuphaldt",
     "result": "03:59.7"
   },
   {
     "date": "5/16/1987",
+    "index": "153",
     "location": "Eugene",
     "name": "Rich Bergesen",
     "result": "03:59.8"
   },
   {
     "date": "1/22/1988",
+    "index": "154",
     "location": "Johnson City",
     "name": "Brian Abshire",
     "result": "03:58.6"
   },
   {
     "date": "1/31/1988",
+    "index": "155",
     "location": "Allston",
     "name": "Steve Ave",
     "result": "03:59.1"
   },
   {
     "date": "2/5/1988",
+    "index": "156",
     "location": "New York",
     "name": "Roosevelt Jackson",
     "result": "03:59.4"
   },
   {
     "date": "2/6/1988",
+    "index": "157",
     "location": "Notre Dame",
     "name": "John Quade",
     "result": "03:57.3"
   },
   {
     "date": "2/6/1988",
-    "location": "Notre Dame",
+    "index": "158",
+    "location": "Notr eDame",
     "name": "Darryl Frerker",
     "result": "03:58.1"
   },
   {
     "date": "5/7/1988",
+    "index": "159",
     "location": "Corvallis",
     "name": "Karl Van Calcar",
     "result": "03:59.4"
   },
   {
     "date": "6/5/1988",
+    "index": "160",
     "location": "Westwood",
     "name": "Tim Hacker",
     "result": "03:55.7"
   },
   {
     "date": "7/2/1988",
+    "index": "161",
     "location": "Eugene",
     "name": "Bruce Stirling",
     "result": "03:59.1"
   },
   {
     "date": "1/27/1989",
+    "index": "162",
     "location": "Johnson City",
     "name": "Brian Jaeger",
     "result": "03:59.5"
   },
   {
     "date": "2/18/1989",
+    "index": "163",
     "location": "Ft. Worth",
     "name": "Reuben Reina",
     "result": "03:58.9"
   },
   {
     "date": "3/11/1989",
+    "index": "164",
     "location": "Indianapolis",
     "name": "Bob Whelan",
     "result": "03:58.8"
   },
   {
     "date": "6/10/1989",
+    "index": "165",
     "location": "Dedham",
     "name": "Mark Coogan",
     "result": "03:58.8"
   },
   {
     "date": "6/10/1989",
+    "index": "166",
     "location": "Dedham",
     "name": "Brad Schlapak",
     "result": "03:59.9"
   },
   {
     "date": "6/10/1989",
+    "index": "167",
     "location": "Westwood",
     "name": "Greg Whiteley",
     "result": "03:59.2"
   },
   {
     "date": "6/10/1989",
+    "index": "168",
     "location": "Westwood",
     "name": "Paul Greer",
     "result": "03:59.8"
   },
   {
     "date": "2/18/1990",
+    "index": "169",
     "location": "Boston",
     "name": "Eddie Slowikowski",
     "result": "03:59.4"
   },
   {
     "date": "3/10/1990",
+    "index": "170",
     "location": "Indianapolis",
     "name": "Eric Henry",
     "result": "03:59.2"
   },
   {
     "date": "6/23/1990",
+    "index": "171",
     "location": "Holmdel",
     "name": "Jim Norris",
     "result": "03:59.5"
   },
   {
     "date": "1/25/1991",
+    "index": "172",
     "location": "Fayetteville",
     "name": "Matt Taylor",
     "result": "03:57.8"
   },
   {
     "date": "2/1/1991",
+    "index": "173",
     "location": "New York",
     "name": "Bill Burke",
     "result": "03:58.7"
   },
   {
     "date": "2/16/1991",
+    "index": "174",
     "location": "Boston",
     "name": "Mark Deady",
     "result": "03:58.7"
   },
   {
     "date": "2/16/1991",
+    "index": "175",
     "location": "Boston",
     "name": "Charles Marsala",
     "result": "03:58.7"
   },
   {
     "date": "2/16/1991",
+    "index": "176",
     "location": "Boston",
     "name": "Mike Michno",
     "result": "03:58.9"
   },
   {
     "date": "2/16/1991",
+    "index": "177",
     "location": "Boston",
     "name": "Bill Rathbun",
     "result": "03:59.9"
   },
   {
     "date": "3/9/1991",
+    "index": "178",
     "location": "Indianapolis",
     "name": "Bob Kennedy",
     "result": "03:58.1"
   },
   {
     "date": "3/9/1991",
+    "index": "179",
     "location": "Indianapolis",
     "name": "John Trautmann",
     "result": "03:58.5"
   },
   {
     "date": "3/30/1991",
+    "index": "180",
     "location": "Stanford",
     "name": "Matt Giusto",
     "result": "03:59.2"
   },
   {
     "date": "6/9/1991",
+    "index": "181",
     "location": "Dedham",
     "name": "Gerry Donakowski",
     "result": "03:59.1"
   },
   {
     "date": "7/1/1991",
-    "location": "Villeneuve-d'Ascq",
+    "index": "182",
+    "location": "Villeneuve-d’Ascq",
     "name": "Terrance Herrington",
     "result": "03:55.6"
   },
   {
     "date": "7/1/1991",
-    "location": "Villeneuve-d'Ascq",
+    "index": "183",
+    "location": "Villeneuve-d’Ascq",
     "name": "Christian Cushing-Murray",
     "result": "03:57.7"
   },
   {
     "date": "3/14/1992",
+    "index": "184",
     "location": "Birmingham",
     "name": "Len Sitko",
     "result": "03:59.3"
   },
   {
     "date": "4/4/1992",
+    "index": "185",
     "location": "Fresno",
     "name": "Ernie Freer",
     "result": "03:59.0"
   },
   {
     "date": "7/4/1992",
+    "index": "186",
     "location": "Oslo",
     "name": "Steve Holman",
     "result": "03:53.3"
   },
   {
     "date": "8/31/1992",
+    "index": "187",
     "location": "Belfast",
     "name": "Paul Vandegrift",
     "result": "03:59.6"
   },
   {
     "date": "2/27/1993",
+    "index": "188",
     "location": "Boston",
     "name": "Erik Nedeau",
     "result": "03:59.7"
   },
   {
     "date": "5/15/1993",
+    "index": "189",
     "location": "San Francisco",
     "name": "Aaron Ramirez",
     "result": "03:59.6"
   },
   {
     "date": "5/15/1993",
+    "index": "190",
     "location": "San Francisco",
     "name": "Jim Sorensen",
     "result": "03:59.7"
   },
   {
     "date": "6/5/1993",
+    "index": "191",
     "location": "Eugene",
     "name": "Ronnie Harris",
     "result": "03:58.0"
   },
   {
     "date": "6/5/1993",
+    "index": "192",
     "location": "Eugene",
     "name": "Bob Lesko",
     "result": "03:58.2"
   },
   {
     "date": "6/5/1993",
+    "index": "193",
     "location": "Eugene",
     "name": "Danny Maas",
     "result": "03:58.8"
   },
   {
     "date": "7/10/1993",
+    "index": "194",
     "location": "Oslo",
     "name": "Mark Dailey",
     "result": "03:57.2"
   },
   {
     "date": "1/28/1994",
+    "index": "195",
     "location": "Boston",
     "name": "Mark Sivieri",
     "result": "03:59.9"
   },
   {
     "date": "2/5/1994",
+    "index": "196",
     "location": "Notre Dame",
     "name": "Dave Wittman",
     "result": "03:59.3"
   },
   {
     "date": "6/4/1994",
+    "index": "197",
     "location": "Eugene",
     "name": "Buck Jones",
     "result": "03:57.4"
   },
   {
     "date": "6/4/1994",
+    "index": "198",
     "location": "Eugene",
     "name": "Shannon Lemora",
     "result": "03:57.5"
   },
   {
     "date": "6/4/1994",
+    "index": "199",
     "location": "Eugene",
     "name": "Benny McIntosh",
     "result": "03:58.3"
   },
   {
     "date": "6/4/1994",
+    "index": "200",
     "location": "Eugene",
     "name": "Chris Katon",
     "result": "03:59.2"
   },
   {
     "date": "6/4/1994",
+    "index": "201",
     "location": "Eugene",
     "name": "Jon Warren",
     "result": "03:59.3"
   },
   {
     "date": "6/4/1994",
+    "index": "202",
     "location": "Eugene",
     "name": "Jim Howarth",
     "result": "03:59.8"
   },
   {
     "date": "6/25/1994",
+    "index": "203",
     "location": "Cork",
     "name": "Shane Healy",
     "result": "03:59.2"
   },
   {
     "date": "1/28/1995",
+    "index": "204",
     "location": "Johnson City",
     "name": "Brian Hyde",
     "result": "03:59.9"
   },
   {
     "date": "2/4/1995",
+    "index": "205",
     "location": "Notre Dame",
     "name": "Paul McMullen",
     "result": "03:57.3"
   },
   {
     "date": "2/11/1995",
+    "index": "206",
     "location": "Los Angeles",
     "name": "Jason Pyrah",
     "result": "03:58.4"
   },
   {
     "date": "4/29/1995",
+    "index": "207",
     "location": "Philadelphia",
     "name": "Brad Sumner",
     "result": "03:59.1"
   },
   {
     "date": "4/29/1995",
+    "index": "208",
     "location": "Philadelphia",
     "name": "Tom Nohilly",
     "result": "03:59.8"
   },
   {
     "date": "6/4/1995",
+    "index": "209",
     "location": "Eugene",
     "name": "Gordon Johnson",
     "result": "03:56.2"
   },
   {
     "date": "2/10/1996",
+    "index": "210",
     "location": "Allston",
     "name": "Matt Holthaus",
     "result": "03:58.8"
   },
   {
     "date": "4/20/1996",
+    "index": "211",
     "location": "Lawrence",
     "name": "Michael Cox",
     "result": "03:59.2"
   },
   {
     "date": "2/1/1997",
+    "index": "212",
     "location": "Annapolis",
     "name": "Dan Browne",
     "result": "03:59.4"
   },
   {
     "date": "3/7/1997",
+    "index": "213",
     "location": "Indianapolis",
     "name": "Corey Ihmels",
     "result": "03:59.7"
   },
   {
     "date": "5/11/1997",
+    "index": "214",
     "location": "Portland",
     "name": "Alan Culpepper",
     "result": "03:58.2"
   },
   {
     "date": "5/11/1997",
+    "index": "215",
     "location": "Portland",
     "name": "Richie Boulet",
     "result": "03:58.6"
   },
   {
     "date": "5/14/1997",
+    "index": "216",
     "location": "Haverford",
     "name": "Karl Paranya",
     "result": "03:57.6"
   },
   {
     "date": "5/27/1997",
+    "index": "217",
     "location": "Stanford",
     "name": "Jamey Harris",
     "result": "03:59.2"
   },
   {
     "date": "7/16/1997",
+    "index": "218",
     "location": "Nice",
     "name": "Marc Davis",
     "result": "03:54.3"
   },
   {
     "date": "8/16/1997",
+    "index": "219",
     "location": "Falmouth",
     "name": "Darin Shearer",
     "result": "03:59.8"
   },
   {
     "date": "2/7/1998",
+    "index": "220",
     "location": "Gainesville",
     "name": "David Krummenacker",
     "result": "03:58.6"
   },
   {
     "date": "2/7/1998",
+    "index": "221",
     "location": "Ames",
     "name": "Ryan Travis",
     "result": "03:59.7"
   },
   {
     "date": "2/13/1998",
+    "index": "222",
     "location": "New York",
     "name": "Seneca Lassiter",
     "result": "03:59.6"
   },
   {
     "date": "2/14/1998",
+    "index": "223",
     "location": "Boston",
     "name": "Brian Gallagher",
     "result": "03:59.9"
   },
   {
     "date": "4/19/1998",
+    "index": "224",
     "location": "Walnut",
     "name": "Gabe Jennings",
     "result": "03:59.3"
   },
   {
     "date": "7/4/1998",
+    "index": "225",
     "location": "Brunswick",
     "name": "Brian Baker",
     "result": "03:58.8"
   },
   {
     "date": "7/4/1998",
+    "index": "226",
     "location": "Brunswick",
     "name": "Michael Stember",
     "result": "03:59.3"
   },
   {
     "date": "7/4/1998",
+    "index": "227",
     "location": "Brunswick",
     "name": "Scott Anderson",
     "result": "03:59.8"
   },
   {
     "date": "1/16/1999",
+    "index": "228",
     "location": "Wanganui",
     "name": "Bryan Berryhill",
     "result": "03:56.5"
   },
   {
     "date": "2/6/1999",
+    "index": "229",
     "location": "Notre Dame",
     "name": "Tim Broe",
     "result": "03:59.4"
   },
   {
     "date": "2/6/1999",
+    "index": "230",
     "location": "Ames",
     "name": "Jonathon Riley",
     "result": "03:58.7"
   },
   {
     "date": "5/15/1999",
+    "index": "231",
     "location": "Eugene",
     "name": "Adam Goucher",
     "result": "03:57.6"
   },
   {
     "date": "1/29/2000",
+    "index": "232",
     "location": "Boston",
     "name": "Jason Lunn",
     "result": "03:58.4"
   },
   {
     "date": "2/12/2000",
+    "index": "233",
     "location": "Fayetteville",
     "name": "Rich Kenah",
     "result": "03:59.4"
   },
   {
     "date": "4/16/2000",
+    "index": "234",
     "location": "Walnut",
     "name": "Dwight Davis",
     "result": "03:59.3"
   },
   {
     "date": "4/29/2000",
+    "index": "235",
     "location": "Philadelphia",
     "name": "Sam Gabremariam",
     "result": "03:59.2"
   },
   {
     "date": "5/13/2000",
+    "index": "236",
     "location": "Eugene",
     "name": "Steve Fein",
     "result": "03:59.4"
   },
   {
     "date": "5/13/2000",
+    "index": "237",
     "location": "Eugene",
     "name": "Mike Miller",
     "result": "03:59.9"
   },
   {
     "date": "1/20/2001",
+    "index": "238",
     "location": "New York City",
     "name": "Alan Webb",
     "result": "03:59.9"
   },
   {
     "date": "2/4/2001",
+    "index": "239",
     "location": "Roxbury Crossing",
     "name": "Dan Wilson",
     "result": "03:59.1"
   },
   {
     "date": "2/10/2001",
+    "index": "240",
     "location": "Fayetteville",
     "name": "Sharif Karie",
     "result": "03:59.6"
   },
   {
     "date": "3/10/2001",
+    "index": "241",
     "location": "Fayetteville",
     "name": "Charlie Gruber",
     "result": "03:58.5"
   },
   {
     "date": "3/10/2001",
+    "index": "242",
     "location": "Fayetteville",
     "name": "Jeremy Tolman",
     "result": "04:00.0"
   },
   {
     "date": "4/28/2001",
+    "index": "243",
     "location": "Des Moines",
     "name": "Andy Downin",
     "result": "03:59.4"
   },
   {
     "date": "5/12/2001",
+    "index": "244",
     "location": "Princeton",
     "name": "Clay Schwabe",
     "result": "03:59.4"
   },
   {
     "date": "6/3/2001",
+    "index": "245",
     "location": "Portland",
     "name": "Ibrahim Aden",
     "result": "03:57.0"
   },
   {
     "date": "3/1/2002",
+    "index": "246",
     "location": "New York City",
     "name": "Jeremy Huffman",
     "result": "03:59.8"
   },
   {
     "date": "3/2/2002",
+    "index": "247",
     "location": "Seattle",
     "name": "Eric Garner",
     "result": "03:58.9"
   },
   {
     "date": "3/2/2002",
+    "index": "248",
     "location": "Seattle",
     "name": "Donald Sage",
     "result": "03:59.5"
   },
   {
     "date": "3/2/2002",
+    "index": "249",
     "location": "Seattle",
     "name": "Brandon Strong",
     "result": "03:59.6"
   },
   {
     "date": "3/2/2002",
+    "index": "250",
     "location": "Seattle",
     "name": "Ray Hughes",
     "result": "03:59.8"
   },
   {
     "date": "5/26/2002",
+    "index": "251",
     "location": "Eugene",
     "name": "Matt Lane",
     "result": "03:57.6"
   },
   {
     "date": "6/8/2002",
+    "index": "252",
     "location": "Stanford",
     "name": "Bolota Asmerom",
     "result": "03:59.9"
   },
   {
     "date": "2/8/2003",
+    "index": "253",
     "location": "Lexington",
     "name": "Rob Myers",
     "result": "03:58.6"
   },
   {
     "date": "2/8/2003",
+    "index": "254",
     "location": "Notre Dame",
     "name": "Luke Watson",
     "result": "03:57.8"
   },
   {
     "date": "2/8/2003",
+    "index": "255",
     "location": "Notre Dame",
     "name": "Ian Connor",
     "result": "03:58.2"
   },
   {
     "date": "2/15/2003",
+    "index": "256",
     "location": "New York City",
     "name": "Jason Long",
     "result": "04:00.0"
   },
   {
     "date": "3/8/2003",
+    "index": "257",
     "location": "Seattle",
     "name": "Grant Robison",
     "result": "03:59.0"
   },
   {
     "date": "2/7/2004",
+    "index": "258",
     "location": "Notre Dame",
     "name": "Jordan Desilets",
     "result": "03:59.8"
   },
   {
     "date": "2/14/2004",
+    "index": "259",
     "location": "Seattle",
     "name": "Nathan Robison",
     "result": "04:00.0"
   },
   {
     "date": "6/19/2004",
+    "index": "260",
     "location": "Eugene",
     "name": "Steve Slattery",
     "result": "03:59.8"
   },
   {
     "date": "6/19/2004",
+    "index": "261",
     "location": "Eugene",
     "name": "Aaron Lanzel",
     "result": "03:59.9"
   },
   {
     "date": "7/1/2004",
+    "index": "262",
     "location": "Burnaby",
     "name": "Said Ahmed",
     "result": "03:57.3"
   },
   {
     "date": "7/1/2004",
+    "index": "263",
     "location": "Burnaby",
     "name": "Chris Estwanik",
     "result": "03:58.2"
   },
   {
     "date": "7/30/2004",
+    "index": "264",
     "location": "London",
     "name": "Daniel Lincoln",
     "result": "03:57.7"
   },
   {
     "date": "1/29/2005",
+    "index": "265",
     "location": "Roxbury Crossing",
     "name": "Bernard Lagat",
     "result": "03:53.6"
   },
   {
     "date": "1/29/2005",
+    "index": "266",
     "location": "Roxbury Crossing",
     "name": "Scott McGowan",
     "result": "03:58.9"
   },
   {
     "date": "2/5/2005",
+    "index": "267",
     "location": "Notre Dame",
     "name": "Sean Jefferson",
     "result": "03:56.4"
   },
   {
     "date": "2/5/2005",
+    "index": "268",
     "location": "Notre Dame",
     "name": "John Jefferson",
     "result": "03:57.9"
   },
   {
     "date": "2/26/2005",
+    "index": "269",
     "location": "Lincoln",
     "name": "Leo Manzano",
     "result": "03:59.9"
   },
   {
     "date": "4/9/2005",
+    "index": "270",
     "location": "Westwood",
     "name": "Jon Rankin",
     "result": "03:57.9"
   },
   {
     "date": "4/9/2005",
+    "index": "271",
     "location": "Westwood",
     "name": "Bryan Lindsay",
     "result": "03:59.2"
   },
   {
     "date": "6/4/2005",
+    "index": "272",
     "location": "Nashville",
     "name": "Anthony Famiglietti",
     "result": "03:58.2"
   },
   {
     "date": "1/14/2006",
+    "index": "273",
     "location": "Seattle",
-    "name": "Sean O'Brien",
+    "name": "Sean O’Brien",
     "result": "03:59.1"
   },
   {
     "date": "1/14/2006",
+    "index": "274",
     "location": "Seattle",
     "name": "Elliott Blount",
     "result": "03:59.6"
   },
   {
     "date": "1/28/2006",
+    "index": "275",
     "location": "Roxbury Crossing",
     "name": "Chris Lukezic",
     "result": "03:58.5"
   },
   {
     "date": "1/28/2006",
+    "index": "276",
     "location": "Roxbury Crossing",
     "name": "Ryan Kleimenhagen",
     "result": "03:59.0"
   },
   {
     "date": "2/10/2006",
+    "index": "277",
     "location": "Fayetteville",
     "name": "Russell Brown",
     "result": "03:59.7"
   },
   {
     "date": "2/11/2006",
+    "index": "278",
     "location": "Seattle",
     "name": "Austin Abbott",
     "result": "03:59.5"
   },
   {
     "date": "2/11/2006",
+    "index": "279",
     "location": "Seattle",
     "name": "Stephen Pifer",
     "result": "03:59.6"
   },
   {
     "date": "3/4/2006",
+    "index": "280",
     "location": "Ames",
     "name": "Christian Smith",
     "result": "03:59.6"
   },
   {
     "date": "3/4/2006",
+    "index": "281",
     "location": "Seattle",
     "name": "Michael McGrath",
     "result": "03:59.3"
   },
   {
     "date": "5/4/2006",
+    "index": "282",
     "location": "Beaverton",
     "name": "Jason Jabaut",
     "result": "03:59.1"
   },
   {
     "date": "5/6/2006",
+    "index": "283",
     "location": "Madison",
     "name": "Matt Tegenkamp",
     "result": "03:56.4"
   },
   {
     "date": "5/6/2006",
+    "index": "284",
     "location": "Madison",
     "name": "Chris Solinsky",
     "result": "03:57.8"
   },
   {
     "date": "1/13/2007",
+    "index": "285",
     "location": "Seattle",
     "name": "Nick Symmonds",
     "result": "03:56.7"
   },
   {
     "date": "2/10/2007",
+    "index": "286",
     "location": "Seattle",
     "name": "Garrett Heath",
     "result": "03:59.6"
   },
   {
     "date": "3/3/2007",
+    "index": "287",
     "location": "Ames",
     "name": "Blake Boldon",
     "result": "03:59.2"
   },
   {
     "date": "3/31/2007",
+    "index": "288",
     "location": "Lynchburg",
     "name": "Josh McDougal",
     "result": "03:57.5"
   },
   {
     "date": "4/28/2007",
+    "index": "289",
     "location": "Berkeley",
     "name": "David Torrence",
     "result": "03:58.6"
   },
   {
     "date": "5/14/2007",
+    "index": "290",
     "location": "Swarthmore",
     "name": "Bobby Curtis",
     "result": "03:57.2"
   },
   {
     "date": "5/14/2007",
+    "index": "291",
     "location": "Swarthmore",
     "name": "Michael Kerrigan",
     "result": "03:59.6"
   },
   {
     "date": "6/2/2007",
+    "index": "292",
     "location": "Nashville",
     "name": "Jeff See",
     "result": "03:58.7"
   },
   {
     "date": "6/2/2007",
+    "index": "293",
     "location": "Nashville",
     "name": "Jake Watson",
     "result": "03:59.4"
   },
   {
     "date": "6/2/2007",
+    "index": "294",
     "location": "Nashville",
     "name": "Ben Gregory",
     "result": "03:59.7"
   },
   {
     "date": "6/10/2007",
+    "index": "295",
     "location": "Beaverton",
     "name": "Sean Graham",
     "result": "03:58.4"
   },
   {
     "date": "6/17/2007",
+    "index": "296",
     "location": "Cambridge",
     "name": "Ben True",
     "result": "04:00.0"
   },
   {
     "date": "7/21/2007",
+    "index": "297",
     "location": "Brasschaat",
     "name": "Seth Summerside",
     "result": "03:57.8"
   },
   {
     "date": "1/19/2008",
+    "index": "298",
     "location": "Seattle",
     "name": "Will Leer",
     "result": "03:59.8"
   },
   {
     "date": "2/2/2008",
+    "index": "299",
     "location": "New Haven",
     "name": "Andrew Bumbalough",
     "result": "03:58.5"
   },
   {
     "date": "2/2/2008",
+    "index": "300",
     "location": "Lexington",
     "name": "John Richardson",
     "result": "03:59.4"
   },
   {
     "date": "2/2/2008",
+    "index": "301",
     "location": "Seattle",
     "name": "Steve Sherer",
     "result": "03:56.0"
   },
   {
     "date": "2/2/2008",
+    "index": "302",
     "location": "Seattle",
     "name": "Kyle Perry",
     "result": "03:59.2"
   },
   {
     "date": "2/2/2008",
+    "index": "303",
     "location": "Seattle",
     "name": "Kyle Alcorn",
     "result": "03:59.8"
   },
   {
     "date": "2/9/2008",
+    "index": "304",
     "location": "Notre Dame",
     "name": "Jack Bolas",
     "result": "03:59.4"
   },
   {
     "date": "2/9/2008",
+    "index": "305",
     "location": "Notre Dame",
     "name": "Jordan Fife",
     "result": "03:59.8"
   },
   {
     "date": "2/9/2008",
+    "index": "306",
     "location": "Notre Dame",
     "name": "Brandon Bethke",
     "result": "03:59.9"
   },
   {
     "date": "3/8/2008",
+    "index": "307",
     "location": "Seattle",
-    "name": "AJ Acosta",
+    "name": "A.J. Acosta",
     "result": "03:58.5"
   },
   {
     "date": "4/5/2008",
+    "index": "308",
     "location": "Austin",
     "name": "Darren Brown",
     "result": "04:00.0"
   },
   {
     "date": "4/12/2008",
+    "index": "309",
     "location": "Westwood",
     "name": "Laef Barnes",
     "result": "04:00.0"
   },
   {
     "date": "4/12/2008",
+    "index": "310",
     "location": "Chico",
     "name": "Scott Bauhs",
     "result": "03:59.8"
   },
   {
     "date": "4/26/2008",
+    "index": "311",
     "location": "Eugene",
     "name": "Andrew Wheating",
     "result": "03:58.2"
   },
   {
     "date": "6/8/2008",
+    "index": "312",
     "location": "Eugene",
     "name": "Lopez Lomong",
     "result": "03:54.0"
   },
   {
     "date": "1/24/2009",
+    "index": "313",
     "location": "Fayetteville",
     "name": "German Fernandez",
     "result": "03:56.5"
   },
   {
     "date": "1/24/2009",
+    "index": "314",
     "location": "Fayetteville",
     "name": "Dorian Ulrey",
     "result": "03:57.6"
   },
   {
     "date": "1/31/2009",
+    "index": "315",
     "location": "University Park",
     "name": "Liam Boylan-Pett",
     "result": "03:59.4"
   },
   {
     "date": "2/7/2009",
+    "index": "316",
     "location": "Notre Dame",
     "name": "Shane Knoll",
     "result": "03:57.4"
   },
   {
     "date": "2/7/2009",
+    "index": "317",
     "location": "Notre Dame",
     "name": "Justin Switzer",
     "result": "03:58.9"
   },
   {
     "date": "2/7/2009",
+    "index": "318",
     "location": "Notre Dame",
     "name": "Jacob Boone",
     "result": "03:59.1"
   },
   {
     "date": "2/14/2009",
+    "index": "319",
     "location": "Seattle",
     "name": "Matthew Centrowitz",
     "result": "03:57.9"
   },
   {
     "date": "3/7/2009",
+    "index": "320",
     "location": "Notre Dame",
     "name": "Craig Miller",
     "result": "03:59.1"
   },
   {
     "date": "3/7/2009",
+    "index": "321",
     "location": "Seattle",
     "name": "Galen Rupp",
     "result": "03:57.9"
   },
   {
     "date": "4/25/2009",
+    "index": "322",
     "location": "Berkeley",
     "name": "Michael Coe",
     "result": "03:56.2"
   },
   {
     "date": "4/25/2009",
+    "index": "323",
     "location": "Berkeley",
     "name": "Tommy Schmitz",
     "result": "03:58.9"
   },
   {
     "date": "5/23/2009",
+    "index": "324",
     "location": "St. Louis",
     "name": "Derek Scott",
     "result": "03:57.9"
   },
   {
     "date": "5/28/2009",
+    "index": "325",
     "location": "Beaverton",
     "name": "Tom Brooks",
     "result": "03:59.3"
   },
   {
     "date": "6/6/2009",
+    "index": "326",
     "location": "Murfreesboro",
     "name": "Dan Strackeljahn",
     "result": "03:59.8"
   },
   {
     "date": "6/7/2009",
+    "index": "327",
     "location": "Eugene",
     "name": "Evan Jager",
     "result": "03:54.4"
   },
   {
     "date": "7/16/2009",
+    "index": "328",
     "location": "Eugene",
     "name": "Jordan McNamara",
     "result": "03:59.9"
   },
   {
     "date": "7/26/2009",
+    "index": "329",
     "location": "Brasschaat",
     "name": "Mark Thompson",
     "result": "03:59.3"
   },
   {
     "date": "1/29/2010",
+    "index": "330",
     "location": "Bloomington",
     "name": "Andrew Bayer",
     "result": "03:59.0"
   },
   {
     "date": "1/30/2010",
+    "index": "331",
     "location": "University Park",
     "name": "Erik van Ingen",
     "result": "03:59.6"
   },
   {
     "date": "1/30/2010",
+    "index": "332",
     "location": "Seattle",
     "name": "Abdi Hassan",
     "result": "03:59.8"
   },
   {
     "date": "2/12/2010",
+    "index": "333",
     "location": "Fayetteville",
     "name": "Alex McClary",
     "result": "03:57.3"
   },
   {
     "date": "2/12/2010",
+    "index": "334",
     "location": "Fayetteville",
     "name": "Andy McClary",
     "result": "03:59.0"
   },
   {
     "date": "2/13/2010",
+    "index": "335",
     "location": "Allston",
     "name": "Riley Masters",
     "result": "04:00.0"
   },
   {
     "date": "2/13/2010",
+    "index": "336",
     "location": "Seattle",
     "name": "Dylan Ferris",
     "result": "03:58.9"
   },
   {
     "date": "2/13/2010",
+    "index": "337",
     "location": "Seattle",
     "name": "Eric Harasyn",
     "result": "04:00.0"
   },
   {
     "date": "2/13/2010",
+    "index": "338",
     "location": "Seattle",
     "name": "Mac Fleet",
     "result": "03:57.7"
   },
   {
     "date": "2/13/2010",
+    "index": "339",
     "location": "Seattle",
     "name": "Mark Matusak",
     "result": "03:58.4"
   },
   {
     "date": "2/13/2010",
+    "index": "340",
     "location": "Seattle",
     "name": "Jordan Horn",
     "result": "03:58.7"
   },
   {
     "date": "2/13/2010",
+    "index": "341",
     "location": "Seattle",
     "name": "Andrew Jesien",
     "result": "03:58.9"
   },
   {
     "date": "2/13/2010",
+    "index": "342",
     "location": "Seattle",
-    "name": "Sam Bair Jr. ",
+    "name": "Sam Bair Jr.",
     "result": "03:59.7"
   },
   {
     "date": "3/5/2010",
+    "index": "343",
     "location": "New York",
     "name": "Kyle Merber",
     "result": "03:58.5"
   },
   {
     "date": "3/5/2010",
+    "index": "344",
     "location": "New York",
     "name": "Tony Jordanek",
     "result": "03:58.8"
   },
   {
     "date": "3/5/2010",
+    "index": "345",
     "location": "New York",
     "name": "Kyle Heath",
     "result": "03:59.8"
   },
   {
     "date": "3/6/2010",
+    "index": "346",
     "location": "Seattle",
     "name": "Ben Blankenship",
     "result": "03:57.9"
   },
   {
     "date": "3/6/2010",
+    "index": "347",
     "location": "Seattle",
     "name": "Blake Shaw",
     "result": "03:59.9"
   },
   {
     "date": "4/24/2010",
+    "index": "348",
     "location": "Berkeley",
     "name": "Steve Sodaro",
     "result": "03:59.4"
   },
   {
     "date": "6/5/2010",
+    "index": "349",
     "location": "Nashville",
     "name": "Kyle King",
     "result": "03:59.8"
   },
   {
     "date": "1/22/2011",
+    "index": "350",
     "location": "New York",
     "name": "Rob Novak",
     "result": "03:59.7"
   },
   {
     "date": "1/29/2011",
+    "index": "351",
     "location": "University Park",
     "name": "Cory Leslie",
     "result": "03:58.0"
   },
   {
     "date": "2/4/2011",
+    "index": "352",
     "location": "Bozeman",
     "name": "Patrick Casey",
     "result": "03:59.8"
   },
   {
     "date": "2/12/2011",
+    "index": "353",
     "location": "Boston",
     "name": "Mack Chaffee",
     "result": "03:58.8"
   },
   {
     "date": "2/12/2011",
+    "index": "354",
     "location": "Seattle",
     "name": "Miles Batty",
     "result": "03:55.8"
   },
   {
     "date": "2/12/2011",
+    "index": "355",
     "location": "Seattle",
     "name": "Duncan Phillips",
     "result": "03:58.8"
   },
   {
     "date": "3/5/2011",
+    "index": "356",
     "location": "Notre Dame",
     "name": "Michael Hammond",
     "result": "03:58.4"
   },
   {
     "date": "3/5/2011",
+    "index": "357",
     "location": "Notre Dame",
     "name": "Jeff Thode",
     "result": "03:58.7"
   },
   {
     "date": "3/5/2011",
+    "index": "358",
     "location": "Seattle",
     "name": "James Cameron",
     "result": "03:58.5"
   },
   {
     "date": "6/4/2011",
+    "index": "359",
     "location": "Nashville",
     "name": "Matt Elliott",
     "result": "03:59.0"
   },
   {
     "date": "6/4/2011",
+    "index": "360",
     "location": "Nashville",
     "name": "Patrick Todd",
     "result": "03:59.8"
   },
   {
     "date": "6/4/2011",
+    "index": "361",
     "location": "Eugene",
     "name": "Kyle Miller",
     "result": "03:55.4"
   },
   {
     "date": "1/28/2012",
+    "index": "362",
     "location": "Boston",
     "name": "Timothy Ritchie",
     "result": "03:58.5"
   },
   {
     "date": "1/28/2012",
+    "index": "363",
     "location": "Boston",
     "name": "Christian Gonzalez",
     "result": "04:00.0"
   },
   {
     "date": "2/3/2012",
+    "index": "364",
     "location": "Blacksburg",
     "name": "Ryan Hill",
     "result": "03:58.3"
   },
   {
     "date": "2/4/2012",
+    "index": "365",
     "location": "University Park",
     "name": "Peter Callahan",
     "result": "03:58.9"
   },
   {
     "date": "2/11/2012",
+    "index": "366",
     "location": "Boston",
     "name": "Brian Gagnon",
     "result": "03:57.9"
   },
   {
     "date": "2/11/2012",
+    "index": "367",
     "location": "Boston",
     "name": "Eric Jenkins",
     "result": "03:59.2"
   },
   {
     "date": "2/11/2012",
+    "index": "368",
     "location": "Fayetteville",
     "name": "Alex Hatz",
     "result": "03:58.7"
   },
   {
     "date": "2/11/2012",
+    "index": "369",
     "location": "Fayetteville",
     "name": "George Alex",
     "result": "03:58.8"
   },
   {
     "date": "2/11/2012",
+    "index": "370",
     "location": "Fayetteville",
     "name": "Frezer Legesse",
     "result": "03:59.0"
   },
   {
     "date": "2/11/2012",
+    "index": "371",
     "location": "Seattle",
     "name": "Michael Atchoo",
     "result": "03:59.9"
   },
   {
     "date": "2/11/2012",
+    "index": "372",
     "location": "Seattle",
     "name": "Robby Creese",
     "result": "03:59.5"
   },
   {
     "date": "2/25/2012",
+    "index": "373",
     "location": "Seattle",
     "name": "Matt Maldonado",
     "result": "03:59.1"
   },
   {
     "date": "2/25/2012",
+    "index": "374",
     "location": "Seattle",
     "name": "Chris Derrick",
     "result": "03:59.1"
   },
   {
     "date": "3/3/2012",
+    "index": "375",
     "location": "New York",
     "name": "Joe Stilin",
     "result": "04:00.0"
   },
   {
     "date": "3/3/2012",
+    "index": "376",
     "location": "Notre Dame",
     "name": "Kirubel Erassa",
     "result": "03:58.8"
   },
   {
     "date": "3/3/2012",
+    "index": "377",
     "location": "Notre Dame",
-    "name": "De'Sean Turner",
+    "name": "De’Sean Turner",
     "result": "03:59.8"
   },
   {
     "date": "3/3/2012",
+    "index": "378",
     "location": "Seattle",
     "name": "John Mickowski",
     "result": "03:57.6"
   },
   {
     "date": "3/3/2012",
+    "index": "379",
     "location": "Seattle",
     "name": "Dan Huling",
     "result": "03:58.2"
   },
   {
     "date": "3/3/2012",
+    "index": "380",
     "location": "Seattle",
     "name": "Nick Happe",
     "result": "03:58.7"
   },
   {
     "date": "4/21/2012",
+    "index": "381",
     "location": "Lawrence",
     "name": "David Adams",
     "result": "03:58.4"
   },
   {
     "date": "5/10/2012",
+    "index": "382",
     "location": "Roanoke",
     "name": "Ryan Witt",
     "result": "03:59.9"
   },
   {
     "date": "5/29/2012",
+    "index": "383",
     "location": "Warwick",
     "name": "Bobby Mack",
     "result": "03:59.7"
   },
   {
     "date": "7/17/2012",
+    "index": "384",
     "location": "Cork",
     "name": "Elliott Heath",
     "result": "03:58.5"
   },
   {
     "date": "1/25/2013",
+    "index": "385",
     "location": "Bloomington",
     "name": "Andrew Poore",
     "result": "03:58.9"
   },
   {
     "date": "1/26/2013",
+    "index": "386",
     "location": "University Park",
     "name": "Brannon Kidder",
     "result": "03:59.5"
   },
   {
     "date": "1/26/2013",
+    "index": "387",
     "location": "Fayetteville",
     "name": "Shane Moskowitz",
     "result": "03:59.5"
   },
   {
     "date": "2/2/2013",
+    "index": "388",
     "location": "Notre Dame",
     "name": "Austin Mudd",
     "result": "03:59.3"
   },
   {
     "date": "2/8/2013",
+    "index": "389",
     "location": "Fayetteville",
     "name": "Ryan McNiff",
     "result": "03:59.1"
   },
   {
     "date": "2/8/2013",
+    "index": "390",
     "location": "Fayetteville",
     "name": "Christopher Fallon",
     "result": "03:59.4"
   },
   {
     "date": "2/9/2013",
+    "index": "391",
     "location": "Seattle",
     "name": "Chad Noelle",
     "result": "03:59.6"
   },
   {
     "date": "2/9/2013",
+    "index": "392",
     "location": "Seattle",
     "name": "Donn Cabral",
     "result": "03:56.4"
   },
   {
     "date": "2/9/2013",
+    "index": "393",
     "location": "Seattle",
     "name": "Brett Johnson",
     "result": "03:58.6"
   },
   {
     "date": "2/23/2013",
+    "index": "394",
     "location": "Seattle",
     "name": "Tyler Stutzman",
     "result": "03:58.9"
   },
   {
     "date": "2/23/2013",
+    "index": "395",
     "location": "Seattle",
     "name": "Matt Miner",
     "result": "03:59.0"
   },
   {
     "date": "2/23/2013",
+    "index": "396",
     "location": "Seattle",
     "name": "Jeramy Elkaim",
     "result": "03:59.2"
   },
   {
     "date": "3/2/2013",
+    "index": "397",
     "location": "Notre Dame",
     "name": "John Simons",
     "result": "03:59.3"
   },
   {
     "date": "4/27/2013",
+    "index": "398",
     "location": "Philadelphia",
     "name": "Michael Rutt",
     "result": "03:57.2"
   },
   {
     "date": "4/27/2013",
+    "index": "399",
     "location": "Philadelphia",
     "name": "Tyler Mulder",
     "result": "03:57.4"
   },
   {
     "date": "4/27/2013",
+    "index": "400",
     "location": "Philadelphia",
     "name": "Robby Andrews",
     "result": "03:57.8"
   },
   {
     "date": "4/27/2013",
+    "index": "401",
     "location": "Philadelphia",
     "name": "Owen Dawson",
     "result": "03:59.7"
   },
   {
     "date": "5/30/2013",
+    "index": "402",
     "location": "St. Louis",
     "name": "Dan Clark",
     "result": "03:59.5"
   },
   {
     "date": "6/1/2013",
+    "index": "403",
     "location": "Nashville",
     "name": "Isaac Presson",
     "result": "03:58.7"
   },
   {
     "date": "6/1/2013",
+    "index": "404",
     "location": "Nashville",
     "name": "Dey Dey",
     "result": "04:00.0"
   },
   {
     "date": "7/15/2013",
+    "index": "405",
     "location": "Portland",
     "name": "Trevor Dunbar",
     "result": "03:59.1"
   },
   {
     "date": "7/15/2013",
+    "index": "406",
     "location": "Portland",
     "name": "Rob Finnerty",
     "result": "03:59.4"
   },
   {
     "date": "8/4/2013",
+    "index": "407",
     "location": "Saline",
     "name": "Dan Lowry",
     "result": "03:59.3"
   },
   {
     "date": "1/25/2014",
+    "index": "408",
     "location": "Boston",
     "name": "Will Geoghegan",
     "result": "03:58.0"
   },
   {
     "date": "2/1/2014",
+    "index": "409",
     "location": "Geneva",
     "name": "Jake Edwards",
     "result": "03:59.5"
   },
   {
     "date": "2/1/2014",
+    "index": "410",
     "location": "Seattle",
     "name": "Daniel Quigley",
     "result": "03:59.6"
   },
   {
     "date": "2/8/2014",
+    "index": "411",
     "location": "Boston",
     "name": "Travis Mahoney",
     "result": "03:58.6"
   },
   {
     "date": "2/8/2014",
+    "index": "412",
     "location": "Boston",
     "name": "Pat McGregor",
     "result": "03:58.7"
   },
   {
     "date": "2/8/2014",
+    "index": "413",
     "location": "Boston",
     "name": "Taylor Gilland",
     "result": "03:58.8"
   },
   {
     "date": "2/8/2014",
+    "index": "414",
     "location": "Boston",
     "name": "Michael Williams",
     "result": "03:59.6"
   },
   {
     "date": "2/8/2014",
+    "index": "415",
     "location": "Notre Dame",
     "name": "Sam Penzenstadler",
     "result": "03:58.2"
   },
   {
     "date": "2/15/2014",
+    "index": "416",
     "location": "Ames",
     "name": "Matt Hillenbrand",
     "result": "03:57.0"
   },
   {
     "date": "2/15/2014",
+    "index": "417",
     "location": "Seattle",
     "name": "Izaic Yorks",
     "result": "03:59.0"
   },
   {
     "date": "3/2/2014",
+    "index": "418",
     "location": "Boston",
     "name": "Jesse Garn",
     "result": "03:59.4"
   },
   {
     "date": "4/12/2014",
+    "index": "419",
     "location": "Greenville",
     "name": "Andrew Colley",
     "result": "03:59.3"
   },
   {
     "date": "4/26/2014",
+    "index": "420",
     "location": "Philadelphia",
     "name": "Thomas Awad",
     "result": "03:58.3"
   },
   {
     "date": "6/5/2014",
+    "index": "421",
     "location": "Concord",
     "name": "Eric Finan",
     "result": "03:58.7"
   },
   {
     "date": "6/5/2014",
+    "index": "422",
     "location": "San Diego",
     "name": "Eric Avila",
     "result": "03:56.9"
   },
   {
     "date": "7/10/2014",
+    "index": "423",
     "location": "Burnaby",
     "name": "Colby Alexander",
     "result": "03:59.7"
   },
   {
     "date": "8/1/2014",
+    "index": "424",
     "location": "Raleigh",
     "name": "Ford Palmer",
     "result": "03:57.6"
   },
   {
     "date": "8/1/2014",
+    "index": "425",
     "location": "Raleigh",
     "name": "Donnie Cowart",
     "result": "03:58.4"
   },
   {
     "date": "1/17/2015",
+    "index": "426",
     "location": "Seattle",
     "name": "Sean McGorty",
     "result": "03:59.3"
   },
   {
     "date": "1/31/2015",
+    "index": "427",
     "location": "Boston",
     "name": "Mike Marsella",
     "result": "04:00.0"
   },
   {
     "date": "1/31/2015",
+    "index": "428",
     "location": "University Park",
     "name": "Ahmed Bile",
     "result": "03:59.0"
   },
   {
     "date": "1/31/2015",
+    "index": "429",
     "location": "University Park",
     "name": "Martin Hehir",
     "result": "03:59.8"
   },
   {
     "date": "2/14/2015",
+    "index": "430",
     "location": "Boston",
     "name": "Steve Mangan",
     "result": "03:58.2"
   },
   {
     "date": "2/14/2015",
+    "index": "431",
     "location": "Boston",
     "name": "Amos Bartelsmeyer",
     "result": "03:58.5"
   },
   {
     "date": "2/14/2015",
+    "index": "432",
     "location": "Boston",
     "name": "Ryan Manahan",
     "result": "03:58.6"
   },
   {
     "date": "2/14/2015",
+    "index": "433",
     "location": "Boston",
     "name": "Michael Lederhouse",
     "result": "03:59.5"
   },
   {
     "date": "2/14/2015",
+    "index": "434",
     "location": "New York",
     "name": "Johnny Gregorek",
     "result": "03:57.5"
   },
   {
     "date": "2/14/2015",
+    "index": "435",
     "location": "Ames",
     "name": "Nate McClafferty",
     "result": "04:00.0"
   },
   {
     "date": "2/14/2015",
+    "index": "436",
     "location": "Seattle",
     "name": "Cristian Soratos",
     "result": "03:55.3"
   },
   {
     "date": "2/14/2015",
+    "index": "437",
     "location": "Seattle",
     "name": "Daniel Winn",
     "result": "03:57.6"
   },
   {
     "date": "2/14/2015",
+    "index": "438",
     "location": "Seattle",
     "name": "Jake Hurysz",
     "result": "03:58.1"
   },
   {
     "date": "2/15/2015",
+    "index": "439",
     "location": "Seattle",
     "name": "Matt Daniels",
     "result": "03:59.9"
   },
   {
     "date": "2/28/2015",
+    "index": "440",
     "location": "Seattle",
     "name": "Thomas Coyle",
     "result": "03:59.3"
   },
   {
     "date": "4/25/2015",
+    "index": "441",
     "location": "Berkeley",
     "name": "Thomas Joyce",
     "result": "03:58.7"
   },
   {
     "date": "5/8/2015",
+    "index": "442",
     "location": "Eugene",
     "name": "Matthew Maton",
     "result": "03:59.4"
   },
   {
     "date": "5/23/2015",
+    "index": "443",
     "location": "Lake Charles",
     "name": "Jarrett LeBlanc",
     "result": "04:00.0"
   },
   {
     "date": "6/4/2015",
+    "index": "444",
     "location": "St. Louis",
     "name": "Tyler Pennel",
     "result": "03:59.0"
   },
   {
     "date": "6/4/2015",
+    "index": "445",
     "location": "St. Louis",
     "name": "Grant Fisher",
     "result": "03:59.4"
   },
   {
     "date": "6/6/2015",
+    "index": "446",
     "location": "Nashville",
     "name": "Brandon Lasater",
     "result": "03:59.2"
   },
   {
     "date": "8/7/2015",
+    "index": "447",
     "location": "Raleigh",
     "name": "Lex Williams",
     "result": "03:59.4"
   },
   {
     "date": "8/7/2015",
+    "index": "448",
     "location": "Raleigh",
     "name": "Brandon Hudgins",
     "result": "03:59.7"
   },
   {
     "date": "8/8/2015",
+    "index": "449",
     "location": "Portland",
     "name": "Hassan Mead",
     "result": "03:59.9"
   },
   {
     "date": "1/30/2016",
+    "index": "450",
     "location": "Boston",
     "name": "Henry Wynne",
     "result": "03:58.7"
   },
   {
     "date": "1/30/2016",
+    "index": "451",
     "location": "Boston",
     "name": "Joel Hubbard",
     "result": "03:58.9"
   },
   {
     "date": "1/30/2016",
+    "index": "452",
     "location": "Boston",
     "name": "Coby Horowitz",
     "result": "03:59.6"
   },
   {
     "date": "1/30/2016",
+    "index": "453",
     "location": "Fayetteville",
     "name": "Blake Haney",
     "result": "03:59.1"
   },
   {
     "date": "1/30/2016",
+    "index": "454",
     "location": "Seattle",
     "name": "Colby Gilbert",
     "result": "03:59.8"
   },
   {
     "date": "2/6/2016",
+    "index": "455",
     "location": "Boston",
     "name": "Cole Williams",
     "result": "03:57.9"
   },
   {
     "date": "2/6/2016",
+    "index": "456",
     "location": "New York",
     "name": "Craig Forys",
     "result": "03:58.0"
   },
   {
     "date": "2/6/2016",
+    "index": "457",
     "location": "New York",
     "name": "Drew Hunter",
     "result": "03:58.3"
   },
   {
     "date": "2/6/2016",
+    "index": "458",
     "location": "Akron",
     "name": "Clayton Murphy",
     "result": "03:57.1"
   },
   {
     "date": "2/12/2016",
+    "index": "459",
     "location": "New York",
     "name": "James Gowans",
     "result": "03:58.2"
   },
   {
     "date": "2/12/2016",
+    "index": "460",
     "location": "New York",
     "name": "Rob Napolitano",
     "result": "03:59.0"
   },
   {
     "date": "2/13/2016",
+    "index": "461",
     "location": "Seattle",
     "name": "Travis Burkstrand",
     "result": "03:59.7"
   },
   {
     "date": "2/13/2016",
+    "index": "462",
     "location": "Seattle",
     "name": "Connor Winter",
     "result": "03:59.8"
   },
   {
     "date": "2/13/2016",
+    "index": "463",
     "location": "Seattle",
     "name": "David Elliott",
     "result": "03:57.4"
   },
   {
     "date": "2/13/2016",
+    "index": "464",
     "location": "Seattle",
     "name": "Jacob Burcham",
     "result": "03:57.5"
   },
   {
     "date": "2/13/2016",
+    "index": "465",
     "location": "Seattle",
     "name": "Sam Prakel",
     "result": "03:58.0"
   },
   {
     "date": "2/13/2016",
+    "index": "466",
     "location": "Seattle",
     "name": "Joshua Thompson",
     "result": "03:58.3"
   },
   {
     "date": "2/27/2016",
+    "index": "467",
     "location": "Seattle",
     "name": "Zach Perrin",
     "result": "03:59.0"
   },
   {
     "date": "2/27/2016",
+    "index": "468",
     "location": "Seattle",
     "name": "Garrett Corcoran",
     "result": "03:59.8"
   },
   {
     "date": "2/28/2016",
+    "index": "469",
     "location": "Boston",
     "name": "Bryce Basting",
     "result": "03:59.9"
   },
   {
     "date": "3/6/2016",
+    "index": "470",
     "location": "Boston",
     "name": "James Randon",
     "result": "03:58.9"
   },
   {
     "date": "4/29/2016",
+    "index": "471",
     "location": "Portland",
     "name": "Michael Slagowski",
     "result": "03:59.5"
   },
   {
     "date": "6/2/2016",
+    "index": "472",
     "location": "Concord",
     "name": "Nick Ross",
     "result": "03:59.7"
   },
   {
     "date": "8/5/2016",
+    "index": "473",
     "location": "Raleigh",
     "name": "Graham Crawford",
     "result": "03:56.1"
   },
   {
     "date": "8/5/2016",
+    "index": "474",
     "location": "Raleigh",
     "name": "Mike Brannigan",
     "result": "03:57.6"
   },
   {
     "date": "8/11/2016",
+    "index": "475",
     "location": "West Chester",
     "name": "Reed Connor",
     "result": "03:59.6"
   },
   {
     "date": "12/10/2016",
+    "index": "476",
     "location": "College Station",
     "name": "Brian Barraza",
     "result": "03:58.7"
   },
   {
     "date": "1/28/2017",
+    "index": "477",
     "location": "Boston",
     "name": "Ned Willig",
     "result": "03:58.1"
   },
   {
     "date": "1/28/2017",
+    "index": "478",
     "location": "Boston",
     "name": "William Sheeran",
     "result": "03:59.2"
   },
   {
     "date": "1/28/2017",
+    "index": "479",
     "location": "Boston",
     "name": "Connor Mora",
     "result": "03:59.4"
   },
   {
     "date": "1/28/2017",
+    "index": "480",
     "location": "University Park",
     "name": "Jack Keelan",
     "result": "03:59.6"
   },
   {
     "date": "2/11/2017",
+    "index": "481",
     "location": "Boston",
     "name": "Paul Duffey",
     "result": "03:59.3"
   },
   {
     "date": "2/11/2017",
+    "index": "482",
     "location": "New York",
     "name": "Chris Hatler",
     "result": "03:59.2"
   },
   {
     "date": "2/11/2017",
+    "index": "483",
     "location": "Seattle",
     "name": "Craig Nowak",
     "result": "04:00.0"
   },
   {
     "date": "2/11/2017",
+    "index": "484",
     "location": "Seattle",
     "name": "Tim Gorman",
     "result": "03:58.8"
   },
   {
     "date": "2/11/2017",
+    "index": "485",
     "location": "Seattle",
     "name": "Cole Rockhold",
     "result": "03:59.6"
   },
   {
     "date": "6/1/2017",
+    "index": "486",
     "location": "Concord",
     "name": "Robert Domanic",
     "result": "03:54.7"
   },
   {
     "date": "6/1/2017",
+    "index": "487",
     "location": "St. Louis",
     "name": "Reed Brown",
     "result": "03:59.3"
   },
   {
     "date": "6/10/2017",
+    "index": "488",
     "location": "Nashville",
     "name": "Andy Trouard",
     "result": "03:59.1"
   },
   {
     "date": "8/4/2017",
+    "index": "489",
     "location": "Raleigh",
     "name": "Craig Engels",
     "result": "03:57.7"
   },
   {
     "date": "8/4/2017",
+    "index": "490",
     "location": "Raleigh",
     "name": "Drew Piazza",
     "result": "03:59.0"
   },
   {
     "date": "8/4/2017",
+    "index": "491",
     "location": "Raleigh",
     "name": "Andrew Dusing",
     "result": "03:59.1"
   },
   {
     "date": "8/4/2017",
+    "index": "492",
     "location": "Raleigh",
     "name": "Tripp Hurt",
     "result": "03:59.5"
   },
   {
     "date": "12/9/2017",
+    "index": "493",
     "location": "College Station",
     "name": "Donavan Brazier",
     "result": "03:59.3"
   },
   {
     "date": "1/19/2018",
+    "index": "494",
     "location": "Birmingham",
     "name": "Brian Shrader",
     "result": "03:59.4"
   },
   {
     "date": "1/27/2018",
+    "index": "495",
     "location": "New York",
     "name": "Mick Stanovsek",
     "result": "03:57.9"
   },
   {
     "date": "1/27/2018",
+    "index": "496",
     "location": "New York",
     "name": "Cooper Teare",
     "result": "03:59.3"
   },
   {
     "date": "1/27/2018",
+    "index": "497",
     "location": "Bloomington",
     "name": "Kyle Mau",
     "result": "03:59.2"
   },
   {
     "date": "1/27/2018",
+    "index": "498",
     "location": "Champaign",
     "name": "Jon Davis",
     "result": "03:58.5"
   },
   {
     "date": "1/27/2018",
+    "index": "499",
     "location": "Boston",
     "name": "Shadrack Kipchirchir",
     "result": "03:55.5"
   },
   {
     "date": "1/27/2018",
+    "index": "500",
     "location": "Boston",
     "name": "Emmanuel Bor",
     "result": "03:58.8"
   },
   {
     "date": "1/27/2018",
+    "index": "501",
     "location": "Seattle",
     "name": "David Ribich",
     "result": "03:58.9"
   },
   {
     "date": "2/3/2018",
+    "index": "502",
     "location": "University Park",
     "name": "Colin Abert",
     "result": "03:59.5"
   },
   {
     "date": "2/3/2018",
+    "index": "503",
     "location": "Winston-Salem",
     "name": "Paul Chelimo",
     "result": "03:58.6"
   },
   {
     "date": "2/3/2018",
+    "index": "504",
     "location": "Winston-Salem",
     "name": "Vincent Ciattei",
     "result": "03:59.6"
   },
   {
     "date": "2/3/2018",
+    "index": "505",
     "location": "Winston-Salem",
     "name": "Patrick Joseph",
     "result": "03:59.6"
   },
   {
     "date": "2/9/2018",
+    "index": "506",
     "location": "Clemson",
     "name": "Alex Riba",
     "result": "03:59.1"
   },
   {
     "date": "2/9/2018",
+    "index": "507",
     "location": "Clemson",
     "name": "Benjamin Young",
     "result": "03:59.6"
   },
   {
     "date": "2/10/2018",
+    "index": "508",
     "location": "Boston",
     "name": "Michael Hall",
     "result": "03:59.4"
   },
   {
     "date": "2/10/2018",
+    "index": "509",
     "location": "Boston",
     "name": "Martin Martinez",
     "result": "03:59.4"
   },
   {
     "date": "2/10/2018",
+    "index": "510",
     "location": "Seattle",
     "name": "Sam Worley",
     "result": "03:58.0"
   },
   {
     "date": "2/25/2018",
+    "index": "511",
     "location": "Boston",
     "name": "Jordan Mann",
     "result": "03:58.9"
   },
   {
     "date": "2/25/2018",
+    "index": "512",
     "location": "Boston",
     "name": "Jeremy Hernandez",
     "result": "03:59.0"
   },
   {
     "date": "2/25/2018",
+    "index": "513",
     "location": "Boston",
     "name": "Reid Buchanan",
     "result": "03:59.2"
   },
   {
     "date": "2/25/2018",
+    "index": "514",
     "location": "Boston",
     "name": "Louis Serafini",
     "result": "03:59.3"
   },
   {
     "date": "5/22/2018",
+    "index": "515",
     "location": "Atlanta",
     "name": "Willy Fink",
     "result": "03:59.4"
   },
   {
     "date": "5/31/2018",
+    "index": "516",
     "location": "St. Louis",
     "name": "Nick Harris",
     "result": "03:58.9"
   },
   {
     "date": "5/31/2018",
+    "index": "517",
     "location": "St. Louis",
     "name": "Derek Gutierrez",
     "result": "03:59.5"
   },
   {
     "date": "5/31/2018",
+    "index": "518",
     "location": "St. Louis",
     "name": "Brett Meyer",
     "result": "03:59.8"
   },
   {
     "date": "6/7/2018",
+    "index": "519",
     "location": "Concord",
     "name": "David Timlin",
     "result": "03:57.7"
   },
   {
     "date": "8/3/2018",
+    "index": "520",
     "location": "Raleigh",
     "name": "Charlie Marquardt",
     "result": "03:56.0"
   },
   {
     "date": "8/3/2018",
+    "index": "521",
     "location": "Raleigh",
     "name": "Jacob Thomson",
     "result": "03:57.1"
   },
   {
     "date": "9/5/2018",
+    "index": "522",
     "location": "Bay Shore",
     "name": "Sam Parsons",
     "result": "03:59.7"
   },
   {
     "date": "1/12/2019",
+    "index": "523",
     "location": "Seattle",
     "name": "Logan Orndorf",
     "result": "03:59.9"
   },
   {
     "date": "1/18/2019",
+    "index": "524",
     "location": "Clemson",
     "name": "Alex Rogers",
     "result": "03:59.0"
   },
   {
     "date": "1/26/2019",
+    "index": "525",
     "location": "Boston",
     "name": "Ben Groleau",
     "result": "03:58.9"
   },
   {
     "date": "1/26/2019",
+    "index": "526",
     "location": "Boston",
     "name": "Aidan Tooker",
     "result": "03:59.4"
   },
   {
     "date": "1/26/2019",
+    "index": "527",
     "location": "Seattle",
     "name": "Kasey Knevelbaard",
     "result": "03:58.5"
   },
   {
-    "date": "1/26/2019",
+    "date": "1/26/2029",
+    "index": "528",
     "location": "Seattle",
     "name": "Alex Ostberg",
     "result": "03:59.3"
   },
   {
     "date": "1/26/2019",
+    "index": "529",
     "location": "Seattle",
     "name": "Talon Hull",
     "result": "03:59.6"
   },
   {
     "date": "2/9/2019",
+    "index": "530",
     "location": "Boston",
     "name": "Casey Comber",
     "result": "03:57.8"
   },
   {
     "date": "2/9/2019",
+    "index": "531",
     "location": "Boston",
     "name": "Ben Malone",
     "result": "03:58.9"
   },
   {
     "date": "2/9/2019",
+    "index": "532",
     "location": "Boston",
     "name": "Sam Ritz",
     "result": "03:59.4"
   },
   {
     "date": "2/9/2019",
+    "index": "533",
     "location": "Boston",
     "name": "Collin Leibold",
     "result": "03:59.5"
   },
   {
     "date": "2/9/2019",
+    "index": "534",
     "location": "Boston",
     "name": "Spencer Brown",
     "result": "04:00.0"
   },
   {
     "date": "2/9/2019",
+    "index": "535",
     "location": "Ames",
     "name": "Jeff Thies",
     "result": "03:59.9"
   },
   {
     "date": "2/16/2019",
+    "index": "536",
     "location": "Seattle",
     "name": "Jackson Mestler",
     "result": "03:59.8"
   },
   {
     "date": "2/23/2019",
+    "index": "537",
     "location": "Blacksburg",
     "name": "Yared Nuguse",
     "result": "03:57.9"
   },
   {
     "date": "2/23/2019",
+    "index": "538",
     "location": "Seattle",
     "name": "Joe Klecker",
     "result": "03:58.5"
   },
   {
     "date": "2/23/2019",
+    "index": "539",
     "location": "Seattle",
     "name": "Paul Ryan",
     "result": "03:58.8"
   },
   {
     "date": "5/30/2019",
+    "index": "540",
     "location": "St. Louis",
     "name": "Josef Tessema",
     "result": "03:58.7"
   },
   {
     "date": "5/31/2019",
+    "index": "541",
     "location": "Nashville",
     "name": "Troy Reeder",
     "result": "03:59.9"
   },
   {
     "date": "8/1/2019",
+    "index": "542",
     "location": "West Long Branch",
     "name": "Eric Holt",
     "result": "03:58.9"
   },
   {
     "date": "8/2/2019",
+    "index": "543",
     "location": "Raleigh",
     "name": "James Quattlebaum",
     "result": "03:58.6"
   },
   {
     "date": "9/4/2019",
+    "index": "544",
     "location": "Bay Shore",
     "name": "Dillon Maggard",
     "result": "03:57.8"
   },
   {
     "date": "1/18/2020",
+    "index": "545",
     "location": "Nashville",
     "name": "Waleed Suliman",
     "result": "03:57.0"
   },
   {
     "date": "1/18/2020",
+    "index": "546",
     "location": "Nashville",
     "name": "Ryan Adams",
     "result": "03:57.7"
   },
   {
     "date": "1/18/2020",
+    "index": "547",
     "location": "Nashville",
     "name": "Abraham Alvarado",
     "result": "03:59.7"
   },
   {
     "date": "1/25/2020",
+    "index": "548",
     "location": "Boston",
     "name": "Crayton Carrozza",
     "result": "03:59.8"
   },
   {
     "date": "1/25/2020",
+    "index": "549",
     "location": "Boston",
     "name": "Jake Brophy",
     "result": "04:00.0"
   },
   {
     "date": "2/1/2020",
+    "index": "550",
     "location": "Seattle",
     "name": "Talem Franco",
     "result": "03:58.1"
   },
   {
     "date": "2/1/2020",
+    "index": "551",
     "location": "Seattle",
     "name": "Dustin Nading",
     "result": "03:59.8"
   },
   {
     "date": "2/15/2020",
+    "index": "552",
     "location": "Boston",
     "name": "Sam Ellis",
     "result": "03:57.7"
   },
   {
     "date": "2/15/2020",
+    "index": "553",
     "location": "Boston",
     "name": "Matthew Schadler",
     "result": "03:58.5"
   },
   {
     "date": "2/15/2020",
+    "index": "554",
     "location": "Boston",
     "name": "AJ Ernst",
     "result": "03:59.4"
   },
   {
     "date": "2/15/2020",
+    "index": "555",
     "location": "Boston",
     "name": "Colin Daly",
     "result": "03:59.7"
   },
   {
     "date": "2/21/2020",
+    "index": "556",
     "location": "Seattle",
     "name": "Dan Curts",
     "result": "03:59.3"
   },
   {
     "date": "2/28/2020",
+    "index": "557",
     "location": "Boston",
     "name": "Kenneth Hagen",
     "result": "03:58.1"
   },
   {
     "date": "2/28/2020",
+    "index": "558",
     "location": "Boston",
     "name": "Cole Hocker",
     "result": "03:58.2"
   },
   {
     "date": "2/28/2020",
+    "index": "559",
     "location": "Boston",
     "name": "Woody Kincaid",
     "result": "03:59.2"
   },
   {
     "date": "5/23/2020",
+    "index": "560",
     "location": "El Dorado Hills",
     "name": "Leo Daschbach",
     "result": "03:59.5"
   },
   {
     "date": "7/25/2020",
+    "index": "561",
     "location": "Marion",
     "name": "Mason Ferlic",
     "result": "03:58.9"
   },
   {
     "date": "8/15/2020",
+    "index": "562",
     "location": "Nashville",
     "name": "Jacob Dumford",
     "result": "03:59.6"
   },
   {
     "date": "12/12/2020",
+    "index": "563",
     "location": "Columbia",
     "name": "Victor Palumbo",
     "result": "03:58.8"
   },
   {
     "date": "1/22/2021",
+    "index": "564",
     "location": "Birmingham",
     "name": "Cameron Ponder",
     "result": "03:59.3"
   },
   {
     "date": "1/30/2021",
+    "index": "565",
     "location": "Fayetteville",
     "name": "Everett Smulders",
     "result": "03:58.9"
   },
   {
     "date": "1/30/2021",
+    "index": "566",
     "location": "Seattle",
     "name": "Cruz Culpepper",
     "result": "03:59.5"
   },
   {
     "date": "2/6/2021",
+    "index": "567",
     "location": "Blacksburg",
     "name": "Diego Zarate",
     "result": "03:57.5"
   },
   {
     "date": "2/6/2021",
+    "index": "568",
     "location": "Blacksburg",
     "name": "Bashir Mosavel-Lo",
     "result": "03:59.0"
   },
   {
     "date": "2/6/2021",
+    "index": "569",
     "location": "Blacksburg",
     "name": "Benjamin Nibbelink",
     "result": "03:59.0"
   },
   {
     "date": "2/6/2021",
+    "index": "570",
     "location": "Blacksburg",
     "name": "Ben Fleming",
     "result": "03:59.5"
   },
   {
     "date": "2/7/2021",
+    "index": "571",
     "location": "Fayetteville",
     "name": "Hobbs Kessler",
     "result": "03:57.7"
   },
   {
     "date": "2/12/2021",
+    "index": "572",
     "location": "Nashville",
     "name": "Davis Bove",
     "result": "03:57.5"
   },
   {
     "date": "2/12/2021",
+    "index": "573",
     "location": "Nashville",
     "name": "Baylor Franklin",
     "result": "03:59.1"
   },
   {
     "date": "2/13/2021",
+    "index": "574",
     "location": "Ames",
     "name": "Cole Lindhorst",
     "result": "03:59.3"
   },
   {
     "date": "2/13/2021",
+    "index": "575",
     "location": "Fayetteville",
     "name": "EJ Holland",
     "result": "04:00.0"
   },
   {
     "date": "2/13/2021",
+    "index": "576",
     "location": "Seattle",
     "name": "Colton Johnsen",
     "result": "03:57.4"
   },
   {
     "date": "2/13/2021",
+    "index": "577",
     "location": "Seattle",
     "name": "Zach Stallings",
     "result": "03:58.1"
   },
   {
     "date": "2/27/2021",
+    "index": "578",
     "location": "Clemson",
     "name": "Brandon Tubby",
     "result": "03:57.8"
   },
   {
     "date": "2/27/2021",
+    "index": "579",
     "location": "Clemson",
     "name": "Thomas Ratcliffe",
     "result": "03:59.3"
   },
   {
     "date": "2/27/2021",
+    "index": "580",
     "location": "Seattle",
     "name": "Lucas Bons",
     "result": "03:55.5"
   },
   {
     "date": "3/12/2021",
+    "index": "581",
     "location": "Fayetteville",
     "name": "Sean Dolan",
     "result": "03:57.2"
   },
   {
     "date": "4/24/2021",
+    "index": "582",
     "location": "Provo",
     "name": "Casey Clinger",
     "result": "03:59.0"
   },
   {
     "date": "5/1/2021",
+    "index": "583",
     "location": "Charlottesville",
     "name": "Jack Salisbury",
     "result": "03:56.2"
   },
   {
     "date": "5/1/2021",
+    "index": "584",
     "location": "Charlottesville",
     "name": "Parker Stokes",
     "result": "03:59.9"
   },
   {
     "date": "5/15/2021",
+    "index": "585",
     "location": "Toledo",
     "name": "Dan Schaffer",
     "result": "03:58.4"
   },
   {
     "date": "6/3/2021",
+    "index": "586",
     "location": "St. Louis",
     "name": "Bryce Richards",
     "result": "03:57.6"
   },
   {
     "date": "6/6/2021",
+    "index": "587",
     "location": "Nashville",
     "name": "Sean Torpy",
     "result": "03:59.0"
   },
   {
     "date": "6/6/2021",
+    "index": "588",
     "location": "Nashville",
     "name": "Wesley Meyer",
     "result": "03:59.7"
   },
   {
     "date": "7/1/2021",
+    "index": "589",
     "location": "Milwaukee",
     "name": "Shane Streich",
     "result": "03:58.0"
   },
   {
     "date": "7/1/2021",
+    "index": "590",
     "location": "Milwaukee",
     "name": "Olin Hacker",
     "result": "03:59.0"
   },
   {
     "date": "7/18/2021",
+    "index": "591",
     "location": "Mission Viejo",
     "name": "Isaac Updike",
     "result": "03:58.3"
   },
   {
     "date": "7/18/2021",
+    "index": "592",
     "location": "Mission Viejo",
     "name": "Liam Meirow",
     "result": "03:59.4"
   },
   {
     "date": "7/18/2021",
+    "index": "593",
     "location": "Mission Viejo",
     "name": "Andrew Rafla",
     "result": "03:57.8"
   },
   {
     "date": "7/18/2021",
+    "index": "594",
     "location": "Mission Viejo",
     "name": "Obsa Ali",
     "result": "03:59.3"
   },
   {
     "date": "8/6/2021",
+    "index": "595",
     "location": "Raleigh",
     "name": "Tai Dinger",
     "result": "03:57.7"
   },
   {
     "date": "8/6/2021",
+    "index": "596",
     "location": "Raleigh",
     "name": "Isaiah Harris",
     "result": "03:58.3"
   },
   {
     "date": "8/6/2021",
+    "index": "597",
     "location": "Raleigh",
     "name": "Biya Simbassa",
     "result": "03:58.7"
   },
   {
     "date": "8/12/2021",
+    "index": "598",
     "location": "West Chester",
     "name": "Brian Crimmins",
     "result": "03:58.7"
   },
   {
     "date": "12/11/2021",
+    "index": "599",
     "location": "Ames",
     "name": "Isaac Basten",
     "result": "03:58.9"

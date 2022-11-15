@@ -1,4 +1,5 @@
 import os, argparse, csv, json
+from datetime import datetime
 
 expected_columns = set([
     'date',
@@ -6,6 +7,7 @@ expected_columns = set([
     'location',
     'name',
     'result',
+    'category',
 ])
 
 parser = argparse.ArgumentParser(prog='reformat')

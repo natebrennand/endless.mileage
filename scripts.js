@@ -94,16 +94,6 @@ function calculate_coordinate(map_settings, row, col) {
           col * map_settings['col_offset'])
 }
 
-function filenameFromAthlete(row) {
-  const shortHand = {
-    "male": "M",
-    "female": "W",
-    "non-binary": "N",
-  }[row.gender]
-
-  return `/assets/images/trees/${shortHand}.${row.category_index}.jpg`
-}
-
 // layers: [ column id, [list, of, columns, by, [start, end]] ]
 // map_settings: { latitude: {start, row_offset, col_offset},
 //                longitude: {start, row_offset, col_offset} }
@@ -117,14 +107,13 @@ function build_trees_array(layers, map_settings, first_athlete_index, last_athle
     for (let col = 0; col < layers.length; col++) {
       const sections = layers[col];
       if (sections[1].map(s => (s[0] <= row && row <= s[1])).some(x => !!x)) {
+        const athlete = athletes[counter];
         trees = trees.concat({
            'type': 'Feature',
            'properties': {
              'description': (
-               `<div class="tree-popup">` +
-                 `#${athletes[counter].category_index}: ${athletes[counter].name}<br>Ran ${athletes[counter].result} in ${athletes[counter].location}on ${athletes[counter].readable_date}<br>` +
-                 `<img class="tree-pic" src="${filenameFromAthlete(athletes[counter])}">` +
-               `</div>`
+                 `#${athlete.category_index}: ${athlete.name}<br>Ran ${athlete.result} in ${athlete.location} on ${athlete.readable_date}<br>` +
+                 `<img class="tree-pic" src="/assets/images/trees/${athlete.category}.${athlete.index}.jpg">`
              ),
              'icon': 'park',
              'id': counter,

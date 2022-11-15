@@ -157,9 +157,15 @@ p {
 }
 
 
-h1,
-h2 {
+h1, h2 {
   letter-spacing: normal;
   padding: 1em;
   text-align: center;
+}
+
+.tree-popup {
+}
+
+.tree-pic {
+  width: 100%;
 }

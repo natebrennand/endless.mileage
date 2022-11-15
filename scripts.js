@@ -57,6 +57,7 @@ function setup_map(map_settings, trees) {
       new mapboxgl.Popup()
         .setLngLat(coordinates)
         .setHTML(description)
+        .setMaxWidth("50%")
         .addTo(map);
     });
 
@@ -93,6 +94,16 @@ function calculate_coordinate(map_settings, row, col) {
           col * map_settings['col_offset'])
 }
 
+function filenameFromAthlete(row) {
+  const shortHand = {
+    "male": "M",
+    "female": "W",
+    "non-binary": "N",
+  }[row.gender]
+
+  return `/assets/images/trees/${shortHand}.${row.category_index}.jpg`
+}
+
 // layers: [ column id, [list, of, columns, by, [start, end]] ]
 // map_settings: { latitude: {start, row_offset, col_offset},
 //                longitude: {start, row_offset, col_offset} }
@@ -109,9 +120,14 @@ function build_trees_array(layers, map_settings, first_athlete_index, last_athle
         trees = trees.concat({
            'type': 'Feature',
            'properties': {
-             'description': `${counter+1}: ${athletes[counter].name}<br>Ran ${athletes[counter].result} in ${athletes[counter].location}<br>on ${athletes[counter].readable_date}`,
+             'description': (
+               `<div class="tree-popup">` +
+                 `${counter+1}: ${athletes[counter].name}<br>Ran ${athletes[counter].result} in ${athletes[counter].location}<br>on ${athletes[counter].readable_date}` +
+                 `<img class="tree-pic" src="${filenameFromAthlete(athletes[counter])}">` +
+               `</div>`
+             ),
              'icon': 'park',
-             'id':   counter
+             'id': counter,
            },
            'geometry': {
            'type': 'Point',

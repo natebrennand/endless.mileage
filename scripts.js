@@ -112,7 +112,7 @@ function build_trees_array(layers, map_settings, first_athlete_index, last_athle
            'type': 'Feature',
            'properties': {
              'description': (
-                 `#${athlete.category_index}: ${athlete.name}<br>Ran ${athlete.result} in ${athlete.location} on ${athlete.readable_date}<br>` +
+                 `#${athlete.index}: ${athlete.name}<br>Ran ${athlete.result} in ${athlete.location} on ${athlete.date}<br>` +
                  `<img class="tree-pic" src="/assets/images/trees/${athlete.category}.${athlete.index}.jpg">`
              ),
              'icon': 'park',

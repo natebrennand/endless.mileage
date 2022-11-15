@@ -1,560 +1,560 @@
 [
   {
+    "date": "2/15/1975",
+    "location": "San Diego",
     "name": "Francie Larrieu",
-    "result": "04:29.0",
-    "location": "San Diego",
-    "date": "2/15/1975"
+    "result": "04:29.0"
   },
   {
+    "date": "6/30/1979",
+    "location": "Philadelphia",
     "name": "Mary Decker",
-    "result": "04:23.5",
-    "location": "Philadelphia",
-    "date": "6/30/1979"
+    "result": "04:23.5"
   },
   {
+    "date": "6/30/1979",
+    "location": "Philadelphia",
     "name": "Jan Merrill",
-    "result": "04:28.2",
-    "location": "Philadelphia",
-    "date": "6/30/1979"
+    "result": "04:28.2"
   },
   {
+    "date": "5/16/1982",
+    "location": "Westwood",
     "name": "Cindy Bremser",
-    "result": "04:29.2",
-    "location": "Westwood",
-    "date": "5/16/1982"
+    "result": "04:29.2"
   },
   {
+    "date": "9/7/1984",
+    "location": "London",
     "name": "Ruth Wysocki",
-    "result": "04:21.8",
-    "location": "London",
-    "date": "9/7/1984"
+    "result": "04:21.8"
   },
   {
-    "name": "Suzanne Girard",
-    "result": "04:28.7",
+    "date": "7/23/1985",
     "location": "Edinburgh",
-    "date": "7/23/1985"
+    "name": "Suzanne Girard",
+    "result": "04:28.7"
   },
   {
+    "date": "7/27/1985",
+    "location": "Oslo",
     "name": "Chris Gregorek",
-    "result": "04:29.0",
-    "location": "Oslo",
-    "date": "7/27/1985"
+    "result": "04:29.0"
   },
   {
+    "date": "6/8/1986",
+    "location": "Nice",
     "name": "Sue Addison",
-    "result": "04:23.9",
-    "location": "Nice",
-    "date": "6/8/1986"
+    "result": "04:23.9"
   },
   {
+    "date": "9/5/1986",
+    "location": "Brussels",
     "name": "Claudette Groenendaal",
-    "result": "04:25.3",
-    "location": "Brussels",
-    "date": "9/5/1986"
+    "result": "04:25.3"
   },
   {
-    "name": "Linda Sheskey",
-    "result": "04:29.1",
+    "date": "6/6/1987",
     "location": "Eugene",
-    "date": "6/6/1987"
+    "name": "Linda Sheskey",
+    "result": "04:29.1"
   },
   {
+    "date": "7/10/1987",
+    "location": "London",
     "name": "Diana Richburg",
-    "result": "04:25.8",
-    "location": "London",
-    "date": "7/10/1987"
+    "result": "04:25.8"
   },
   {
+    "date": "7/10/1987",
+    "location": "London",
     "name": "Mary Knisely",
-    "result": "04:28.5",
-    "location": "London",
-    "date": "7/10/1987"
+    "result": "04:28.5"
   },
   {
+    "date": "2/5/1988",
+    "location": "New York",
     "name": "Vicki Huber",
-    "result": "04:28.3",
-    "location": "New York",
-    "date": "2/5/1988"
+    "result": "04:28.3"
   },
   {
+    "date": "8/6/1989",
+    "location": "Westwood",
     "name": "Suzy Favor",
-    "result": "04:27.3",
-    "location": "Westwood",
-    "date": "8/6/1989"
+    "result": "04:27.3"
   },
   {
+    "date": "8/6/1989",
+    "location": "Westwood",
     "name": "PattiSue Plumer",
-    "result": "04:29.2",
-    "location": "Westwood",
-    "date": "8/6/1989"
+    "result": "04:29.2"
   },
   {
+    "date": "7/14/1990",
+    "location": "Oslo",
     "name": "Lynn Jennings",
-    "result": "04:24.1",
-    "location": "Oslo",
-    "date": "7/14/1990"
+    "result": "04:24.1"
   },
   {
+    "date": "7/14/1990",
+    "location": "Oslo",
     "name": "Gina Procaccio",
-    "result": "04:24.9",
-    "location": "Oslo",
-    "date": "7/14/1990"
+    "result": "04:24.9"
   },
   {
+    "date": "7/6/1991",
+    "location": "Oslo",
     "name": "Annette Peters",
-    "result": "04:29.6",
-    "location": "Oslo",
-    "date": "7/6/1991"
+    "result": "04:29.6"
   },
   {
-    "name": "Shelly Steely",
-    "result": "04:25.5",
+    "date": "8/14/1992",
     "location": "Sheffield",
-    "date": "8/14/1992"
+    "name": "Shelly Steely",
+    "result": "04:25.5"
   },
   {
-    "name": "Ceci St. Geme",
-    "result": "04:27.0",
+    "date": "6/24/1993",
     "location": "Los Gatos",
-    "date": "6/24/1993"
+    "name": "Ceci St. Geme",
+    "result": "04:27.0"
   },
   {
-    "name": "Regina Jacobs",
-    "result": "04:26.5",
+    "date": "4/3/1995",
     "location": "Atlanta",
-    "date": "4/3/1995"
+    "name": "Regina Jacobs",
+    "result": "04:26.5"
   },
   {
+    "date": "7/9/1997",
+    "location": "Linz",
     "name": "Juli Henner",
-    "result": "04:26.9",
-    "location": "Linz",
-    "date": "7/9/1997"
+    "result": "04:26.9"
   },
   {
+    "date": "7/9/1997",
+    "location": "Linz",
     "name": "Amy Wickus",
-    "result": "04:27.7",
-    "location": "Linz",
-    "date": "7/9/1997"
+    "result": "04:27.7"
   },
   {
-    "name": "Alisa Harvey",
-    "result": "04:29.7",
+    "date": "7/20/1998",
     "location": "Uniondale",
-    "date": "7/20/1998"
+    "name": "Alisa Harvey",
+    "result": "04:29.7"
   },
   {
+    "date": "7/17/1999",
+    "location": "Nice",
     "name": "Amy Rudolph",
-    "result": "04:27.7",
-    "location": "Nice",
-    "date": "7/17/1999"
+    "result": "04:27.7"
   },
   {
+    "date": "7/17/1999",
+    "location": "Nice",
     "name": "Sarah Thorsett",
-    "result": "04:28.4",
-    "location": "Nice",
-    "date": "7/17/1999"
+    "result": "04:28.4"
   },
   {
+    "date": "8/9/2003",
+    "location": "Falmouth",
     "name": "Mary Jane Harrelson",
-    "result": "04:29.1",
-    "location": "Falmouth",
-    "date": "8/9/2003"
+    "result": "04:29.1"
   },
   {
+    "date": "1/29/2006",
+    "location": "Boston",
     "name": "Treniere Clement",
-    "result": "04:29.9",
-    "location": "Boston",
-    "date": "1/29/2006"
+    "result": "04:29.9"
   },
   {
+    "date": "8/12/2006",
+    "location": "Falmouth",
     "name": "Carrie Tollefson",
-    "result": "04:28.0",
-    "location": "Falmouth",
-    "date": "8/12/2006"
+    "result": "04:28.0"
   },
   {
+    "date": "8/12/2006",
+    "location": "Falmouth",
     "name": "Erin Donohue",
-    "result": "04:29.0",
-    "location": "Falmouth",
-    "date": "8/12/2006"
+    "result": "04:29.0"
   },
   {
+    "date": "8/12/2006",
+    "location": "Falmouth",
     "name": "Tiffany McWilliams",
-    "result": "04:29.6",
-    "location": "Falmouth",
-    "date": "8/12/2006"
+    "result": "04:29.6"
   },
   {
+    "date": "2/15/2008",
+    "location": "Fayetteville",
     "name": "Christin Wurth-Thomas",
-    "result": "04:27.2",
-    "location": "Fayetteville",
-    "date": "2/15/2008"
+    "result": "04:27.2"
   },
   {
+    "date": "9/7/2008",
+    "location": "Rieti",
     "name": "Shannon Rowbury",
-    "result": "04:20.3",
-    "location": "Rieti",
-    "date": "9/7/2008"
+    "result": "04:20.3"
   },
   {
+    "date": "9/7/2008",
+    "location": "Rieti",
     "name": "Anna Willard",
-    "result": "04:28.4",
-    "location": "Rieti",
-    "date": "9/7/2008"
+    "result": "04:28.4"
   },
   {
+    "date": "9/7/2008",
+    "location": "Rieti",
     "name": "Lindsay Gallo",
-    "result": "04:28.9",
-    "location": "Rieti",
-    "date": "9/7/2008"
+    "result": "04:28.9"
   },
   {
+    "date": "2/28/2009",
+    "location": "College Station",
     "name": "Jenny Barringer",
-    "result": "04:25.9",
-    "location": "College Station",
-    "date": "2/28/2009"
+    "result": "04:25.9"
   },
   {
+    "date": "3/14/2009",
+    "location": "College Station",
     "name": "Sarah Bowman",
-    "result": "04:29.7",
-    "location": "College Station",
-    "date": "3/14/2009"
+    "result": "04:29.7"
   },
   {
+    "date": "2/11/2012",
+    "location": "Seattle",
     "name": "Katie Flood",
-    "result": "04:28.5",
-    "location": "Seattle",
-    "date": "2/11/2012"
+    "result": "04:28.5"
   },
   {
+    "date": "8/11/2012",
+    "location": "Falmouth",
     "name": "Brenda Martinez",
-    "result": "04:26.8",
-    "location": "Falmouth",
-    "date": "8/11/2012"
+    "result": "04:26.8"
   },
   {
+    "date": "8/11/2012",
+    "location": "Falmouth",
     "name": "Gabriele Anderson",
-    "result": "04:27.9",
-    "location": "Falmouth",
-    "date": "8/11/2012"
+    "result": "04:27.9"
   },
   {
-    "name": "Kim Conley",
-    "result": "04:27.2",
+    "date": "8/18/2012",
     "location": "Leuven",
-    "date": "8/18/2012"
+    "name": "Kim Conley",
+    "result": "04:27.2"
   },
   {
+    "date": "2/16/2013",
+    "location": "New York",
     "name": "Mary Cain",
-    "result": "04:28.3",
-    "location": "New York",
-    "date": "2/16/2013"
+    "result": "04:28.3"
   },
   {
+    "date": "2/16/2013",
+    "location": "New York",
     "name": "Kate Grace",
-    "result": "04:28.8",
-    "location": "New York",
-    "date": "2/16/2013"
+    "result": "04:28.8"
   },
   {
+    "date": "2/16/2013",
+    "location": "New York",
     "name": "Emma Coburn",
-    "result": "04:29.9",
-    "location": "New York",
-    "date": "2/16/2013"
+    "result": "04:29.9"
   },
   {
-    "name": "Brie Felnagle",
-    "result": "04:28.9",
+    "date": "5/5/2013",
     "location": "San Diego",
-    "date": "5/5/2013"
+    "name": "Brie Felnagle",
+    "result": "04:28.9"
   },
   {
+    "date": "1/24/2014",
+    "location": "Boston",
     "name": "Abbey D'Agostino",
-    "result": "04:28.3",
-    "location": "Boston",
-    "date": "1/24/2014"
+    "result": "04:28.3"
   },
   {
+    "date": "1/24/2014",
+    "location": "Boston",
     "name": "Jordan Hasay",
-    "result": "04:28.4",
-    "location": "Boston",
-    "date": "1/24/2014"
+    "result": "04:28.4"
   },
   {
+    "date": "2/8/2014",
+    "location": "Boston",
     "name": "Amanda Winslow",
-    "result": "04:26.3",
-    "location": "Boston",
-    "date": "2/8/2014"
+    "result": "04:26.3"
   },
   {
+    "date": "6/5/2014",
+    "location": "Concord",
     "name": "Morgan Uceny",
-    "result": "04:29.9",
-    "location": "Concord",
-    "date": "6/5/2014"
+    "result": "04:29.9"
   },
   {
+    "date": "7/11/2014",
+    "location": "Dublin",
     "name": "Molly Huddle",
-    "result": "04:26.8",
-    "location": "Dublin",
-    "date": "7/11/2014"
+    "result": "04:26.8"
   },
   {
+    "date": "7/11/2014",
+    "location": "Dublin",
     "name": "Aisha Praught",
-    "result": "04:27.6",
-    "location": "Dublin",
-    "date": "7/11/2014"
+    "result": "04:27.6"
   },
   {
+    "date": "7/11/2014",
+    "location": "Dublin",
     "name": "Laruen Penney",
-    "result": "04:28.0",
-    "location": "Dublin",
-    "date": "7/11/2014"
+    "result": "04:28.0"
   },
   {
+    "date": "8/16/2014",
+    "location": "Falmouth",
     "name": "Katie Mackey",
-    "result": "04:27.8",
-    "location": "Falmouth",
-    "date": "8/16/2014"
+    "result": "04:27.8"
   },
   {
+    "date": "2/13/2015",
+    "location": "Boston",
     "name": "Colleen Quiqley",
-    "result": "04:29.7",
-    "location": "Boston",
-    "date": "2/13/2015"
+    "result": "04:29.7"
   },
   {
+    "date": "2/14/2015",
+    "location": "New York",
     "name": "Stephanie Charnigo",
-    "result": "04:28.0",
-    "location": "New York",
-    "date": "2/14/2015"
+    "result": "04:28.0"
   },
   {
+    "date": "3/14/2015",
+    "location": "Fayetteville",
     "name": "Leah O'Connor",
-    "result": "04:27.2",
-    "location": "Fayetteville",
-    "date": "3/14/2015"
+    "result": "04:27.2"
   },
   {
+    "date": "3/14/2015",
+    "location": "Fayetteville",
     "name": "Shelby Houlihan",
-    "result": "04:28.7",
-    "location": "Fayetteville",
-    "date": "3/14/2015"
+    "result": "04:28.7"
   },
   {
+    "date": "8/7/2015",
+    "location": "Raleigh",
     "name": "Stephanie Garcia",
-    "result": "04:28.8",
-    "location": "Raleigh",
-    "date": "8/7/2015"
+    "result": "04:28.8"
   },
   {
+    "date": "8/7/2015",
+    "location": "Raleigh",
     "name": "Amanda Eccleston",
-    "result": "04:29.1",
-    "location": "Raleigh",
-    "date": "8/7/2015"
+    "result": "04:29.1"
   },
   {
+    "date": "8/7/2015",
+    "location": "Raleigh",
     "name": "Heather Wilson",
-    "result": "04:29.4",
-    "location": "Raleigh",
-    "date": "8/7/2015"
+    "result": "04:29.4"
   },
   {
+    "date": "2/12/2016",
+    "location": "Boston",
     "name": "Elinor Purrier",
-    "result": "04:29.7",
-    "location": "Boston",
-    "date": "2/12/2016"
+    "result": "04:29.7"
   },
   {
+    "date": "2/20/2016",
+    "location": "New York",
     "name": "Kerri Gallagher",
-    "result": "04:26.2",
-    "location": "New York",
-    "date": "2/20/2016"
+    "result": "04:26.2"
   },
   {
+    "date": "2/20/2016",
+    "location": "New York",
     "name": "Heather Kampf",
-    "result": "04:27.3",
-    "location": "New York",
-    "date": "2/20/2016"
+    "result": "04:27.3"
   },
   {
+    "date": "2/20/2016",
+    "location": "New York",
     "name": "Alexa Efraimson",
-    "result": "04:28.9",
-    "location": "New York",
-    "date": "2/20/2016"
+    "result": "04:28.9"
   },
   {
+    "date": "2/28/2016",
+    "location": "Boston",
     "name": "Rachel Schneider",
-    "result": "04:28.5",
-    "location": "Boston",
-    "date": "2/28/2016"
+    "result": "04:28.5"
   },
   {
-    "name": "Cory Mcgee",
-    "result": "04:28.6",
+    "date": "7/22/2016",
     "location": "Dublin",
-    "date": "7/22/2016"
+    "name": "Cory Mcgee",
+    "result": "04:28.6"
   },
   {
+    "date": "8/5/2016",
+    "location": "Raleigh",
     "name": "Lauren Johnson",
-    "result": "04:25.0",
-    "location": "Raleigh",
-    "date": "8/5/2016"
+    "result": "04:25.0"
   },
   {
+    "date": "8/5/2016",
+    "location": "Raleigh",
     "name": "Stephanie Brown",
-    "result": "04:29.1",
-    "location": "Raleigh",
-    "date": "8/5/2016"
+    "result": "04:29.1"
   },
   {
+    "date": "8/5/2016",
+    "location": "Raleigh",
     "name": "Nicole Tully",
-    "result": "04:29.8",
-    "location": "Raleigh",
-    "date": "8/5/2016"
+    "result": "04:29.8"
   },
   {
+    "date": "8/31/2016",
+    "location": "Huntington Station",
     "name": "Shannon Osika",
-    "result": "04:28.5",
-    "location": "Huntington Station",
-    "date": "8/31/2016"
+    "result": "04:28.5"
   },
   {
+    "date": "2/11/2017",
+    "location": "New York",
     "name": "Kaela Edwards",
-    "result": "04:28.8",
-    "location": "New York",
-    "date": "2/11/2017"
+    "result": "04:28.8"
   },
   {
-    "name": "Hannah Fields",
-    "result": "04:28.3",
+    "date": "8/19/2017",
     "location": "Falmouth",
-    "date": "8/19/2017"
+    "name": "Hannah Fields",
+    "result": "04:28.3"
   },
   {
-    "name": "Emily Lipari",
-    "result": "04:28.8",
+    "date": "9/6/2017",
     "location": "Huntington Station",
-    "date": "9/6/2017"
+    "name": "Emily Lipari",
+    "result": "04:28.8"
   },
   {
+    "date": "1/27/2018",
+    "location": "New York",
     "name": "Karissa Schweizer",
-    "result": "04:27.5",
-    "location": "New York",
-    "date": "1/27/2018"
+    "result": "04:27.5"
   },
   {
-    "name": "Helan Schlachtenhaufen",
-    "result": "04:27.1",
+    "date": "6/7/2018",
     "location": "Concord",
-    "date": "6/7/2018"
+    "name": "Helan Schlachtenhaufen",
+    "result": "04:27.1"
   },
   {
+    "date": "8/3/2018",
+    "location": "Raleigh",
     "name": "Charlene Lipsey",
-    "result": "04:27.3",
-    "location": "Raleigh",
-    "date": "8/3/2018"
+    "result": "04:27.3"
   },
   {
+    "date": "8/3/2018",
+    "location": "Raleigh",
     "name": "Sara Vaughn",
-    "result": "04:27.3",
-    "location": "Raleigh",
-    "date": "8/3/2018"
+    "result": "04:27.3"
   },
   {
+    "date": "2/9/2019",
+    "location": "New York",
     "name": "Danae Rivers",
-    "result": "04:29.5",
-    "location": "New York",
-    "date": "2/9/2019"
+    "result": "04:29.5"
   },
   {
+    "date": "3/3/2019",
+    "location": "Boston",
     "name": "Ce'Aira Brown",
-    "result": "04:28.1",
-    "location": "Boston",
-    "date": "3/3/2019"
+    "result": "04:28.1"
   },
   {
+    "date": "3/3/2019",
+    "location": "Boston",
     "name": "Heather MacLean",
-    "result": "04:29.7",
-    "location": "Boston",
-    "date": "3/3/2019"
+    "result": "04:29.7"
   },
   {
+    "date": "1/25/2020",
+    "location": "New York",
     "name": "Nikki Hiltz",
-    "result": "04:29.4",
-    "location": "New York",
-    "date": "1/25/2020"
+    "result": "04:29.4"
   },
   {
+    "date": "1/25/2020",
+    "location": "New York",
     "name": "Whittni Orton",
-    "result": "04:29.8",
-    "location": "New York",
-    "date": "1/25/2020"
+    "result": "04:29.8"
   },
   {
-    "name": "Hanna Green",
-    "result": "04:28.1",
+    "date": "2/1/2020",
     "location": "Seattle",
-    "date": "2/1/2020"
+    "name": "Hanna Green",
+    "result": "04:28.1"
   },
   {
-    "name": "Dani Jones",
-    "result": "04:27.9",
+    "date": "2/8/2020",
     "location": "New York",
-    "date": "2/8/2020"
+    "name": "Dani Jones",
+    "result": "04:27.9"
   },
   {
+    "date": "7/18/2021",
+    "location": "Mission Viejo",
     "name": "Taryn Rawlings",
-    "result": "04:28.9",
-    "location": "Mission Viejo",
-    "date": "7/18/2021"
+    "result": "04:28.9"
   },
   {
+    "date": "7/18/2021",
+    "location": "Mission Viejo",
     "name": "Raevyn Rogers",
-    "result": "04:29.3",
-    "location": "Mission Viejo",
-    "date": "7/18/2021"
+    "result": "04:29.3"
   },
   {
+    "date": "8/6/2021",
+    "location": "Raleigh",
     "name": "Josette Norris",
-    "result": "04:25.9",
-    "location": "Raleigh",
-    "date": "8/6/2021"
+    "result": "04:25.9"
   },
   {
+    "date": "8/6/2021",
+    "location": "Raleigh",
     "name": "Sage Hurta",
-    "result": "04:26.8",
-    "location": "Raleigh",
-    "date": "8/6/2021"
+    "result": "04:26.8"
   },
   {
+    "date": "8/6/2021",
+    "location": "Raleigh",
     "name": "Rebecca Mehra",
-    "result": "04:28.0",
-    "location": "Raleigh",
-    "date": "8/6/2021"
+    "result": "04:28.0"
   },
   {
+    "date": "8/6/2021",
+    "location": "Raleigh",
     "name": "Michaela Meyer",
-    "result": "04:29.2",
-    "location": "Raleigh",
-    "date": "8/6/2021"
+    "result": "04:29.2"
   },
   {
+    "date": "8/6/2021",
+    "location": "Raleigh",
     "name": "Eleanor Fulton",
-    "result": "04:29.5",
-    "location": "Raleigh",
-    "date": "8/6/2021"
+    "result": "04:29.5"
   },
   {
+    "date": "8/6/2021",
+    "location": "Raleigh",
     "name": "Grace Barnett",
-    "result": "04:29.9",
-    "location": "Raleigh",
-    "date": "8/6/2021"
+    "result": "04:29.9"
   },
   {
-    "name": "Elise Cranny",
-    "result": "04:21.9",
+    "date": "9/3/2021",
     "location": "Brussels",
-    "date": "9/3/2021"
+    "name": "Elise Cranny",
+    "result": "04:21.9"
   }
 ]

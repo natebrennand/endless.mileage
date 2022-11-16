@@ -9,8 +9,8 @@ const index = new FlexSearch.Index({
   "tokenize": "reverse",
   "charset": "latin:extra",
 });
-athletes.forEach(a => {
-  index.add(a.index, a.name.toLowerCase())
+athletes.forEach((a, idx) => {
+  index.add(idx, a.name.toLowerCase())
 })
 
 function setup_map(map_settings, trees) {

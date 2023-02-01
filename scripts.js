@@ -148,7 +148,7 @@ const hg_layers = [
   ['G', [[0,  40]]],
   ['H', [[2,  38]]],
   ['I', [[4,  36]]],
-  ['J', [[5,  35]]],
+  ['J', [[6,  35]]],
   ['K', [[6,  35]]],
   ['L', [[7,  35]]],
   ['M', [[8,  23], [28, 34]]],
@@ -178,7 +178,7 @@ const hg_trees = build_trees_array(hg_layers, hg_map_settings, hg_first_athlete_
 
 
 // new grove
-const ng_first_athlete_index = 431, ng_last_athlete_index = 691;
+const ng_first_athlete_index = 430, ng_last_athlete_index = 691;
 const ng_layers = [
   ['A', [[58, 85]]],
   ['B', [[31, 85]]],

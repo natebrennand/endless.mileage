@@ -178,7 +178,7 @@ const hg_trees = build_trees_array(hg_layers, hg_map_settings, hg_first_athlete_
 
 
 // new grove
-const ng_first_athlete_index = 430, ng_last_athlete_index = 691;
+const ng_first_athlete_index = 430, ng_last_athlete_index = 755;
 const ng_layers = [
   ['A', [[58, 85]]],
   ['B', [[31, 85]]],

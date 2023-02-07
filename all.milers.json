@@ -5534,5 +5534,517 @@
     "location": "Ames",
     "name": "Isaac Basten",
     "result": "3:58.88"
+  },
+  {
+    "index": 600,
+    "category": "M",
+    "name": "Ryan Schoppe",
+    "result": "3:58.71",
+    "location": "Fayetteville",
+    "date": "1/14/22"
+  },
+  {
+    "index": 601,
+    "category": "M",
+    "name": "Luke Houser",
+    "result": "3:57.17",
+    "location": "Seattle",
+    "date": "1/15/22"
+  },
+  {
+    "index": 602,
+    "category": "M",
+    "name": "Ben Veatch",
+    "result": "3:59.73",
+    "location": "Bloomington",
+    "date": "1/21/22"
+  },
+  {
+    "index": 603,
+    "category": "M",
+    "name": "Dereck Elkins",
+    "result": "3:59.46",
+    "location": "Nashville",
+    "date": "1/22/22"
+  },
+  {
+    "index": 604,
+    "category": "M",
+    "name": "Christian Noble",
+    "result": "3:59.70",
+    "location": "Nashville",
+    "date": "1/22/22"
+  },
+  {
+    "index": 605,
+    "category": "M",
+    "name": "Dylan Jacobs",
+    "result": "3:57.67",
+    "location": "Notre Dame",
+    "date": "1/22/22"
+  },
+  {
+    "index": 606,
+    "category": "M",
+    "name": "Evan Dorenkamp",
+    "result": "3:57.15",
+    "location": "University Park",
+    "date": "1/29/22"
+  },
+  {
+    "index": 607,
+    "category": "M",
+    "name": "Ray Sellaro",
+    "result": "3:57.89",
+    "location": "University Park",
+    "date": "1/29/22"
+  },
+  {
+    "index": 608,
+    "category": "M",
+    "name": "Liam Murphy",
+    "result": "3:59.63",
+    "location": "University Park",
+    "date": "1/29/22"
+  },
+  {
+    "index": 609,
+    "category": "M",
+    "name": "Elliott Cook",
+    "result": "3:59.02",
+    "location": "Fayetteville",
+    "date": "1/29/22"
+  },
+  {
+    "index": 610,
+    "category": "M",
+    "name": "Matt Strangio",
+    "result": "3:59.19",
+    "location": "Seattle",
+    "date": "1/29/22"
+  },
+  {
+    "index": 611,
+    "category": "M",
+    "name": "Colin Schultz",
+    "result": "3:59.20",
+    "location": "Seattle",
+    "date": "1/29/22"
+  },
+  {
+    "index": 612,
+    "category": "M",
+    "name": "Abdihamid Nur",
+    "result": "3:55.94",
+    "location": "Seattle",
+    "date": "1/29/22"
+  },
+  {
+    "index": 613,
+    "category": "M",
+    "name": "Nico Young",
+    "result": "3:56.00",
+    "location": "Seattle",
+    "date": "1/29/22"
+  },
+  {
+    "index": 614,
+    "category": "M",
+    "name": "Drew Bosley",
+    "result": "3:59.34",
+    "location": "Seattle",
+    "date": "1/29/22"
+  },
+  {
+    "index": 615,
+    "category": "M",
+    "name": "Aidan Ryan",
+    "result": "3:56.88",
+    "location": "Boston",
+    "date": "1/30/22"
+  },
+  {
+    "index": 616,
+    "category": "M",
+    "name": "Eric Van der Els",
+    "result": "3:58.76",
+    "location": "Boston",
+    "date": "1/30/22"
+  },
+  {
+    "index": 617,
+    "category": "M",
+    "name": "Joe Dragon",
+    "result": "3:59.19",
+    "location": "Boston",
+    "date": "1/30/22"
+  },
+  {
+    "index": 618,
+    "category": "M",
+    "name": "Nathan Henderson",
+    "result": "3:59.43",
+    "location": "Boston",
+    "date": "1/30/22"
+  },
+  {
+    "index": 619,
+    "category": "M",
+    "name": "Colin Sahlman",
+    "result": "3:58.81",
+    "location": "New York",
+    "date": "2/5/22"
+  },
+  {
+    "index": 620,
+    "category": "M",
+    "name": "Matthew Payamps",
+    "result": "3:55.53",
+    "location": "Boston",
+    "date": "2/5/22"
+  },
+  {
+    "index": 621,
+    "category": "M",
+    "name": "Camden Gilmore",
+    "result": "3:58.36",
+    "location": "Boston",
+    "date": "2/5/22"
+  },
+  {
+    "index": 622,
+    "category": "M",
+    "name": "Robert Becker",
+    "result": "3:58.98",
+    "location": "Boston",
+    "date": "2/5/22"
+  },
+  {
+    "index": 623,
+    "category": "M",
+    "name": "Robert Miranda",
+    "result": "3:59.27",
+    "location": "Boston",
+    "date": "2/5/22"
+  },
+  {
+    "index": 624,
+    "category": "M",
+    "name": "Duncan Hamilton",
+    "result": "3:59.64",
+    "location": "Spokane",
+    "date": "2/5/22"
+  },
+  {
+    "index": 625,
+    "category": "M",
+    "name": "Nick Dahl",
+    "result": "3:55.89",
+    "location": "Nashville",
+    "date": "2/11/22"
+  },
+  {
+    "index": 626,
+    "category": "M",
+    "name": "Morgan Beadlescomb",
+    "result": "3:52.03",
+    "location": "Chicago",
+    "date": "2/11/22"
+  },
+  {
+    "index": 627,
+    "category": "M",
+    "name": "Cruz Gomez",
+    "result": "3:57.09",
+    "location": "Boston",
+    "date": "2/12/22"
+  },
+  {
+    "index": 628,
+    "category": "M",
+    "name": "Yaseen Abdalla",
+    "result": "3:57.53",
+    "location": "Boston",
+    "date": "2/12/22"
+  },
+  {
+    "index": 629,
+    "category": "M",
+    "name": "Brendan Hebert",
+    "result": "3:59.96",
+    "location": "Boston",
+    "date": "2/12/22"
+  },
+  {
+    "index": 630,
+    "category": "M",
+    "name": "David Nelsen",
+    "result": "3:59.52",
+    "location": "Boston",
+    "date": "2/12/22"
+  },
+  {
+    "index": 631,
+    "category": "M",
+    "name": "Luke Tewalt",
+    "result": "3:59.94",
+    "location": "Lynchburg",
+    "date": "2/12/22"
+  },
+  {
+    "index": 632,
+    "category": "M",
+    "name": "Nick Foster",
+    "result": "3:58.49",
+    "location": "Chicago",
+    "date": "2/12/22"
+  },
+  {
+    "index": 633,
+    "category": "M",
+    "name": "Joe Waskom",
+    "result": "3:59.65",
+    "location": "Seattle",
+    "date": "2/12/22"
+  },
+  {
+    "index": 634,
+    "category": "M",
+    "name": "Alex Maier",
+    "result": "3:56.44",
+    "location": "Seattle",
+    "date": "2/12/22"
+  },
+  {
+    "index": 635,
+    "category": "M",
+    "name": "Tracen Warnick",
+    "result": "3:58.52",
+    "location": "Seattle",
+    "date": "2/12/22"
+  },
+  {
+    "index": 636,
+    "category": "M",
+    "name": "Nate Osterstock",
+    "result": "3:59.38",
+    "location": "Seattle",
+    "date": "2/12/22"
+  },
+  {
+    "index": 637,
+    "category": "M",
+    "name": "Abdirizak Ibrahim",
+    "result": "3:57.85",
+    "location": "Fayetteville",
+    "date": "2/18/22"
+  },
+  {
+    "index": 638,
+    "category": "M",
+    "name": "Austen Dalquist",
+    "result": "3:57.99",
+    "location": "Fayetteville",
+    "date": "2/18/22"
+  },
+  {
+    "index": 639,
+    "category": "M",
+    "name": "Camren Fischer",
+    "result": "3:58.73",
+    "location": "Fayetteville",
+    "date": "2/18/22"
+  },
+  {
+    "index": 640,
+    "category": "M",
+    "name": "Mason Strader",
+    "result": "3:58.47",
+    "location": "Fayetteville",
+    "date": "2/18/22"
+  },
+  {
+    "index": 641,
+    "category": "M",
+    "name": "Caleb Webb",
+    "result": "3:58.56",
+    "location": "Fayetteville",
+    "date": "2/18/22"
+  },
+  {
+    "index": 642,
+    "category": "M",
+    "name": "Jacob McLeod",
+    "result": "3:58.63",
+    "location": "Fayetteville",
+    "date": "2/18/22"
+  },
+  {
+    "index": 643,
+    "category": "M",
+    "name": "John Petruno",
+    "result": "3:58.16",
+    "location": "Geneva",
+    "date": "2/25/22"
+  },
+  {
+    "index": 644,
+    "category": "M",
+    "name": "Marquette Wilhite",
+    "result": "3:58.90",
+    "location": "College Station",
+    "date": "2/26/22"
+  },
+  {
+    "index": 645,
+    "category": "M",
+    "name": "Eduardo Herrera",
+    "result": "3:57.16",
+    "location": "Seattle",
+    "date": "2/26/22"
+  },
+  {
+    "index": 646,
+    "category": "M",
+    "name": "Jack Yearian",
+    "result": "3:54.54",
+    "location": "Boston",
+    "date": "2/27/22"
+  },
+  {
+    "index": 647,
+    "category": "M",
+    "name": "Robert Brandt",
+    "result": "3:55.70",
+    "location": "Boston",
+    "date": "2/27/22"
+  },
+  {
+    "index": 648,
+    "category": "M",
+    "name": "Derek Holmes",
+    "result": "3:59.57",
+    "location": "Providence",
+    "date": "4/9/22"
+  },
+  {
+    "index": 649,
+    "category": "M",
+    "name": "Wes Porter",
+    "result": "3:58.84",
+    "location": "Charlottesville",
+    "date": "5/4/22"
+  },
+  {
+    "index": 650,
+    "category": "M",
+    "name": "Yasin Sado",
+    "result": "3:58.92",
+    "location": "Charlottesville",
+    "date": "5/4/22"
+  },
+  {
+    "index": 651,
+    "category": "M",
+    "name": "Lucas Guerra",
+    "result": "3:59.54",
+    "location": "Charlottesville",
+    "date": "5/4/22"
+  },
+  {
+    "index": 652,
+    "category": "M",
+    "name": "Abel Teffra",
+    "result": "3:59.82",
+    "location": "Charlottesville",
+    "date": "5/4/22"
+  },
+  {
+    "index": 653,
+    "category": "M",
+    "name": "Gary Martin",
+    "result": "3:57.98",
+    "location": "Springfield",
+    "date": "5/14/22"
+  },
+  {
+    "index": 654,
+    "category": "M",
+    "name": "Connor Burns",
+    "result": "3:58.83",
+    "location": "St. Louis",
+    "date": "6/2/22"
+  },
+  {
+    "index": 655,
+    "category": "M",
+    "name": "Rheinhardt Harrison",
+    "result": "3:59.33",
+    "location": "Gibsonton",
+    "date": "6/3/22"
+  },
+  {
+    "index": 656,
+    "category": "M",
+    "name": "Adam Bradtmueller",
+    "result": "3:57.91",
+    "location": "Nashville",
+    "date": "6/5/22"
+  },
+  {
+    "index": 657,
+    "category": "M",
+    "name": "Luke Combs",
+    "result": "3:58.67",
+    "location": "Nashville",
+    "date": "6/5/22"
+  },
+  {
+    "index": 658,
+    "category": "M",
+    "name": "Joey Berriatua",
+    "result": "3:58.77",
+    "location": "Nashville",
+    "date": "6/5/22"
+  },
+  {
+    "index": 659,
+    "category": "M",
+    "name": "Simeon Birnbaum",
+    "result": "3:59.51",
+    "location": "Seattle",
+    "date": "6/15/22"
+  },
+  {
+    "index": 93,
+    "category": "W",
+    "name": "Allie Wilson",
+    "result": "4:26.04",
+    "location": "Los Angeles",
+    "date": "7/9/22"
+  },
+  {
+    "index": 94,
+    "category": "W",
+    "name": "Elly Henes",
+    "result": "4:28.12",
+    "location": "Los Angeles",
+    "date": "7/9/22"
+  },
+  {
+    "index": 660,
+    "category": "M",
+    "name": "Daniel Michalski",
+    "result": "3:57.25",
+    "location": "Raleigh",
+    "date": "8/5/22"
+  },
+  {
+    "index": 661,
+    "category": "M",
+    "name": "Benjamin Allen",
+    "result": "3:59.40",
+    "location": "Raleigh",
+    "date": "8/5/22"
   }
 ]
